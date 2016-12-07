@@ -4,6 +4,7 @@ body {margin: 0; padding: 0;}
 .left {float: left;}
 ul, ol {margin: 0; padding: 0;}
 
+
 .alpha { margin-left: 0 !important; padding-left: 0 !important; }
 .omega { margin-right: 0 !important; padding-right: 0 !important; }
 .container.parent {margin: 0; padding: 0;}
@@ -18,7 +19,7 @@ ul, ol {margin: 0; padding: 0;}
 .bottomBar {background-color: rgba(0, 0, 0, .6); position: absolute; bottom: 0px; width: 100%; min-height: 125px; margin-bottom: 0;}
 
 /* Logo START */
-.logo {padding: 0px 0 10px 0px;}
+.logo {padding: 10px 0px 10px 0px;}
 .logo a {display: block; width: 149px; height: 150px; margin: 0 auto;  text-indent: -99999px;}
 /* Logo END */
 

@@ -114,13 +114,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<div class="container parent">
 		<div class="row">
 			<!-- Left Sidebar START -->
-			<div class="col-xs-3 leftBar alpha omega" style="height: 576px;">
+			<div class="col-xs-2 leftBar alpha omega" style="height: 576px; ">
 				<h2 class="logo" style="background: url('images/favicon.ico') no-repeat;"><a href=""></a></h2>
 
 				<ul class="navigation">
 					<li id="council_home" class="parent"><a href="">Home</a></li>
 					<li id="council_clubs" class="parent has-sub"><a href="">Clubs</a>
-						<ul class="sub-menu col-xs-3 alpha omega">
+						<ul class="sub-menu col-xs-10	 alpha omega">
 							<li id="music"><a href="">Music</a></li>
 							<li id="dance"><a href="">Dance</a></li>
 							<li id="dramatics"><a href="">Dramatics</a></li>
@@ -151,14 +151,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	    </div>
 
 	<script src="js/myjs.js"></script>
-	<script src="js/jQuery/jquery.hoverIntent.minified.js"></script>
 	<script src="js/jQuery/jquery.min.js"></script>
-	<script src="js/jquery-1.10.0.min.js"></script>
+	<!--<script src="js/jquery-1.10.0.min.js"></script> -->
 	<script src="js/bootstrap.min.js"></script>
 
 	<!-- Just include this Js file -->
 	<script src="js/jquery.carousel.fullscreen.js"></script>
-
+	<script src="js/jQuery/jquery.hoverIntent.minified.js"></script>
 	<script src="js/myjs.js"></script>
 </body>
 </html>
