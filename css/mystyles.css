@@ -1,9 +1,12 @@
-.left {
-  float: left;
-}
+html,
+body {margin: 0; padding: 0;}
+
+.left {float: left;}
+ul, ol {margin: 0; padding: 0;}
+
 .alpha { margin-left: 0 !important; padding-left: 0 !important; }
 .omega { margin-right: 0 !important; padding-right: 0 !important; }
-.container.parent {margin: 0;}
+.container.parent {margin: 0; padding: 0;}
 .container.full-width, .full-width {width: 100% !important;}
 
 .carousel-indicators {bottom: auto; left: auto; right: 20px; top: 30%;width: auto;}
