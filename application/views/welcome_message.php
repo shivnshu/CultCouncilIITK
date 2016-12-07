@@ -15,16 +15,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<link rel="stylesheet" href="css/mystyles.css" />
 
 </head>
-<body class="home">
-
-	<div class="global-bar">
-		<div class="container parent full-width">
-			<div class="row">
-				<div class="topBar">
-				</div>
-			</div><!-- END of Row -->
-		</div><!-- END of Container -->
-	</div><!-- END of Global Bar -->
+<body>
 
 	<!-- This is a typical Twitter Bootstrap Carousel -->
 	<!-- Carousel -->
