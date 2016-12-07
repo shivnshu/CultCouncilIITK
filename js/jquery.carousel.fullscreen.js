@@ -9,7 +9,7 @@ jQuery(document).ready(function() {
     	interval: 4000
 	});
 
-	$('.carousel').css({'margin': 0, 'width': $(window).outerWidth(), 'height': $(window).outerHeight()});
+	$('.carousel').css({'margin': 0, 'width': $(window).outerWidth(), 'height': $(window).outerHeight()-1});
 	$('.carousel .item').css({'position': 'fixed', 'width': '100%', 'height': '100%'});
 	$('.carousel-inner div.item img').each(function() {
 		var imgSrc = $(this).attr('src');
@@ -20,4 +20,4 @@ jQuery(document).ready(function() {
 	$(window).on('resize', function() {
 		$('.carousel').css({'width': $(window).outerWidth(), 'height': $(window).outerHeight()});
 	});
-}); 
+});
