@@ -11,4 +11,24 @@
 .carousel-indicators li, .carousel-indicators li.active {width: 20px; height: 20px; margin: 10px 0;}
 
 .topBar {background-color: rgba(0, 0, 0, .6); position: absolute; top: 0px; width: 100%; min-height: 45px;}
-.leftBar {background-color: rgba(0, 0, 0, .6); position: absolute; top: 45px; min-width: 317px; height: 100%;}
+.leftBar {background-color: rgba(0, 0, 0, .6); position: absolute; top: 45px; min-width: 317px;height: 100%;}
+.bottomBar {background-color: rgba(0, 0, 0, .6); position: absolute; bottom: 0px; width: 100%; min-height: 125px; margin-bottom: 0;}
+
+/* Logo START */
+.logo {padding: 0px 0 10px 0px;}
+.logo a {display: block; width: 149px; height: 150px; margin: 0 auto;  text-indent: -99999px;}
+/* Logo END */
+
+/* Navigation START */
+.navigation {margin: 0; padding: 0; z-index: 8000; position: relative;}
+.navigation li { display: block;}
+.navigation li:after {content: " "; border-bottom: 0	px #818181 solid; display: block; width: 80%; margin: 0 auto;}
+.navigation li:last-child:after {border-bottom: none;}
+.navigation li a {color: #fff; text-transform: uppercase; font-family: 'Raleway', sans-serif; font-size: 15px; display: block; padding: 20px 30px;}
+.navigation li a:hover{text-decoration: none; background-color: #e8ad05; -webkit-transition: background-color 200ms linear; -moz-transition: background-color 200ms linear; -o-transition: background-color 200ms linear; -ms-transition: background-color 200ms linear; transition: background-color 200ms linear;}
+
+/* Sub Menu */
+.navigation .sub-menu {background: url('../images/nav-sub-hover-bg.png') repeat; position: absolute; left: 317px; top: 62px; z-index: 966; display: none;}
+.navigation .sub-menu li a {padding: 15px 30px; background-color: transparent; font-size: 13px;}
+.navigation .sub-menu li a:hover {background-color: #e8ad05; -webkit-transition: background-color 200ms linear; -moz-transition: background-color 200ms linear; -o-transition: background-color 200ms linear; -ms-transition: background-color 200ms linear; transition: background-color 200ms linear;}
+/* Navigation END */

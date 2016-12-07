@@ -114,8 +114,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<div class="container parent">
 		<div class="row">
 			<!-- Left Sidebar START -->
-			<div class="col-xs-3 leftBar alpha omega" style="">
-				<h2 class="logo" style="background: url('images/favicon.ico') no-repeat;"><a href="">CultCouncil</a></h2>
+			<div class="col-xs-3 leftBar alpha omega" style="height: 576px;">
+				<h2 class="logo" style="background: url('images/favicon.ico') no-repeat;"><a href=""></a></h2>
 
 				<ul class="navigation">
 					<li id="council_home" class="parent"><a href="">Home</a></li>
@@ -139,6 +139,18 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		</div><!-- END of Row -->
 	</div><!-- END of Container -->
 
+
+	    <!-- Bottom Area START -->
+	    <div class="bottomArea">
+	    <div class="container parent full-width">
+	        <div class="row">
+						<div class="bottomBar">
+						</div>
+	        </div><!-- END of Row -->
+	      </div><!-- END of Container -->
+	    </div>
+
+	<script src="js/myjs.js"></script>
 
 	<script src="js/jquery-1.10.0.min.js"></script>
 	<script src="js/bootstrap.min.js"></script>
