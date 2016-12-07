@@ -3,8 +3,16 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 ?><!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- The above 3 meta tags *must* come first in the head; any other head
+		content must come *after* these tags -->
+
 	<title>ModCult</title>
+
+	<link rel="icon" href="images/favicon.ico" type="image/ico" >
 
 	<!-- Included Bootstrap CSS Files -->
 	<link rel="stylesheet" href="css/bootstrap.min.css" />
@@ -105,23 +113,23 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<div class="container parent">
 		<div class="row">
 			<!-- Left Sidebar START -->
-			<div class="col-xs-2 leftBar alpha omega" style="height: 576px; ">
+			<div class="col-xs-2 leftBar alpha omega" style=" ">
 				<h2 class="logo" style="background: url('images/favicon.ico') no-repeat;"><a href=""></a></h2>
 
 				<ul class="navigation">
-					<li id="council_home" class="parent"><a href="">Home</a></li>
-					<li id="council_clubs" class="parent has-sub"><a href="">Clubs</a>
+					<li id="council_home" class="parent council-nav"><a href="">Home</a></li>
+					<li id="council_clubs" class="parent has-sub council-nav"><a href="">Clubs</a>
 						<ul class="sub-menu col-xs-10	 alpha omega">
-							<li id="music"><a href="">Music</a></li>
-							<li id="dance"><a href="">Dance</a></li>
-							<li id="dramatics"><a href="">Dramatics</a></li>
+							<li id="music" class="council-nav"><a href="">Music</a></li>
+							<li id="dance" class="council-nav"><a href="">Dance</a></li>
+							<li id="dramatics" class="council-nav"><a href="">Dramatics</a></li>
 						</ul>
 					</li>
 
-					<li id="council_sac_facilities" class="parent"><a href="">Sac Facilities</a></li>
-					<li id="page_schedule" class="parent"><a href="">Schedule</a></li>
-					<li id="page_team" class="parent"><a href="">Team</a></li>
-					<li id="page_gallery" class="parent"><a href="">Gallery</a></li>
+					<li id="council_sac_facilities" class="parent council-nav"><a href="">Sac Facilities</a></li>
+					<li id="page_schedule" class="parent council-nav"><a href="">Schedule</a></li>
+					<li id="page_team" class="parent council-nav"><a href="">Team</a></li>
+					<li id="page_gallery" class="parent council-nav"><a href="">Gallery</a></li>
 
 				</ul>
 

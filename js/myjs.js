@@ -19,8 +19,8 @@ $( document ).ready(function() {
 	window.onresize = function() {
 		// Adjust heigt of Left Sidebar
     $('.topBar').width( $(window).width() + 15);
-    $('.leftBar').height( $(window).height() - 170 );
+    $('.leftBar').height( $(window).height() - $('.topBar').height() - $('.bottomBar').height() );
     $('.bottomBar').width( $(window).width() + 15 );
-
+    ///$('.council-nav').height(($(window).height() - 400)/6);
 	};
 });

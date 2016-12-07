@@ -36,3 +36,29 @@ ul, ol {margin: 0; padding: 0;}
 .navigation .sub-menu li a {padding: 15px 30px; background-color: transparent; font-size: 13px;}
 .navigation .sub-menu li a:hover {background-color: #e8ad05; -webkit-transition: background-color 200ms linear; -moz-transition: background-color 200ms linear; -o-transition: background-color 200ms linear; -ms-transition: background-color 200ms linear; transition: background-color 200ms linear;}
 /* Navigation END */
+
+
+/* Media Queries START */
+@media screen and (max-width: 1366px) {
+	.navigation li a {font-size: 13px; padding: 16px 30px;}
+	.navigation .sub-menu {top: 0px;}
+	.navigation .sub-menu li a {padding: 12px 30px; font-size: 13px;}
+}
+
+@media screen and (max-width: 1200px) {
+	.logo {padding: 0px 0 5px 0px;}
+
+	.navigation li a {font-size: 14px; padding: 15px 30px;}
+	.navigation .sub-menu li a {padding: 12px 30px; font-size: 12px;}
+}
+
+
+@media screen and (max-height: 600px) {
+	/*.leftBar {height: 500px !important; min-height: 500px !important;}*/
+  .bottomBar{min-height: 100px;}
+	.navigation li a, .navigation .sub-menu li a {font-size: 11px; padding: 5px 30px;}
+	.navigation .icon {display: none;}
+	.navigation .sub-menu {top: 26px;}
+
+}
+/* Media Queries END */
