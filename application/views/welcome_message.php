@@ -15,28 +15,35 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<link rel="stylesheet" href="css/mystyles.css" />
 
 </head>
-<body>
+<body class="home">
 
-
+	<div class="global-bar">
+		<div class="container parent full-width">
+			<div class="row">
+				<div class="topBar">
+				</div>
+			</div><!-- END of Row -->
+		</div><!-- END of Container -->
+	</div><!-- END of Global Bar -->
 
 	<!-- This is a typical Twitter Bootstrap Carousel -->
 	<!-- Carousel -->
-	<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+	<div id="homeCarousel" class="carousel slide" data-ride="carousel">
 		<!-- Indicators -->
 		<ol class="carousel-indicators">
-			<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
-			<li data-target="#carousel-example-generic" data-slide-to="1"></li>
-			<li data-target="#carousel-example-generic" data-slide-to="2"></li>
-			<li data-target="#carousel-example-generic" data-slide-to="3"></li>
-			<li data-target="#carousel-example-generic" data-slide-to="4"></li>
-			<li data-target="#carousel-example-generic" data-slide-to="5"></li>
-			<li data-target="#carousel-example-generic" data-slide-to="6"></li>
+			<li data-target="#homeCarousel" data-slide-to="0" class="active"></li>
+			<li data-target="#homeCarousel" data-slide-to="1"></li>
+			<li data-target="#homeCarousel" data-slide-to="2"></li>
+			<li data-target="#homeCarousel" data-slide-to="3"></li>
+			<li data-target="#homeCarousel" data-slide-to="4"></li>
+			<li data-target="#homeCarousel" data-slide-to="5"></li>
+			<li data-target="#homeCarousel" data-slide-to="6"></li>
 		</ol>
 
 		<!-- Wrapper for slides -->
 		<div class="carousel-inner">
 			<div class="item active">
-				<img src="images/0.jpg" alt="" />
+				<img src="images/01.jpg" alt="" />
 				<div class="container">
 					<div class="carousel-caption">
 					</div>
@@ -94,6 +101,43 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		</div>
 
 	</div>
+
+	<div class="global-bar">
+		<div class="container parent full-width">
+			<div class="row">
+				<div class="topBar">
+				</div>
+			</div><!-- END of Row -->
+		</div><!-- END of Container -->
+	</div><!-- END of Global Bar -->
+
+	<div class="container parent">
+		<div class="row">
+			<!-- Left Sidebar START -->
+			<div class="col-xs-3 leftBar alpha omega" style="">
+				<h2 class="logo" style="background: url('images/favicon.ico') no-repeat;"><a href="">CultCouncil</a></h2>
+
+				<ul class="navigation">
+					<li id="council_home" class="parent"><a href="">Home</a></li>
+					<li id="council_clubs" class="parent has-sub"><a href="">Clubs</a>
+						<ul class="sub-menu col-xs-3 alpha omega">
+							<li id="music"><a href="">Music</a></li>
+							<li id="dance"><a href="">Dance</a></li>
+							<li id="dramatics"><a href="">Dramatics</a></li>
+						</ul>
+					</li>
+
+					<li id="council_sac_facilities" class="parent"><a href="">Sac Facilities</a></li>
+					<li id="page_schedule" class="parent"><a href="">Schedule</a></li>
+					<li id="page_team" class="parent"><a href="">Team</a></li>
+					<li id="page_gallery" class="parent"><a href="">Gallery</a></li>
+
+				</ul>
+
+			</div>
+			<!-- Left Sidebar END -->
+		</div><!-- END of Row -->
+	</div><!-- END of Container -->
 
 
 	<script src="js/jquery-1.10.0.min.js"></script>

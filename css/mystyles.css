@@ -1,0 +1,14 @@
+.left {
+  float: left;
+}
+.alpha { margin-left: 0 !important; padding-left: 0 !important; }
+.omega { margin-right: 0 !important; padding-right: 0 !important; }
+.container.parent {margin: 0;}
+.container.full-width, .full-width {width: 100% !important;}
+
+.carousel-indicators {bottom: auto; left: auto; right: 20px; top: 30%;width: auto;}
+.carousel-indicators li {display: list-item;}
+.carousel-indicators li, .carousel-indicators li.active {width: 20px; height: 20px; margin: 10px 0;}
+
+.topBar {background-color: rgba(0, 0, 0, .6); position: absolute; top: 0px; width: 100%; min-height: 45px;}
+.leftBar {background-color: rgba(0, 0, 0, .6); position: absolute; top: 45px; min-width: 317px; height: 100%;}
