@@ -18,6 +18,8 @@ ul, ol {margin: 0; padding: 0;}
 .leftBar {background-color: rgba(0, 0, 0, .6); position: absolute; top: 45px; min-width: 317px;height: 100%;}
 .bottomBar {background-color: rgba(0, 0, 0, .6); position: absolute; bottom: 0px; width: 100%; min-height: 125px;}
 
+
+
 /* Logo START */
 .logo {padding: 10px 0px 10px 0px;}
 .logo a {display: block; width: 149px; height: 150px; margin: 0 auto;  text-indent: -99999px;}
