@@ -12,15 +12,15 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 	<title>ModCult</title>
 
-	<link rel="icon" href="images/favicon.ico" type="image/ico" >
+	<link rel="icon" href="<?=base_url()?>/images/favicon.ico" type="image/ico" >
 
 	<!-- Included Bootstrap CSS Files -->
-	<link rel="stylesheet" href="css/bootstrap.min.css" />
+	<link rel="stylesheet" href="<?=base_url()?>/css/bootstrap.min.css" />
 
 	<!-- Just include this Css file -->
-	<link rel="stylesheet" href="css/jquery.carousel.fullscreen.css" />
+	<link rel="stylesheet" href="<?=base_url()?>/css/jquery.carousel.fullscreen.css" />
 
-	<link rel="stylesheet" href="css/mystyles.css" />
+	<link rel="stylesheet" href="<?=base_url()?>/css/mystyles.css" />
 
 </head>
 <body>
@@ -42,7 +42,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<!-- Wrapper for slides -->
 		<div class="carousel-inner">
 			<div class="item active">
-				<img src="images/01.jpg" alt="" />
+				<img src="<?=base_url()?>/images/01.jpg" alt="" />
 				<div class="container">
 					<div class="carousel-caption">
 					</div>
@@ -50,7 +50,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			</div>
 
 			<div class="item">
-				<img src="images/1.jpg" alt="" />
+				<img src="<?=base_url()?>/images/1.jpg" alt="" />
 				<div class="container">
 					<div class="carousel-caption">
 					</div>
@@ -58,7 +58,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			</div>
 
 			<div class="item">
-				<img src="images/2.jpg" alt="" />
+				<img src="<?=base_url()?>/images/2.jpg" alt="" />
 				<div class="container">
 					<div class="carousel-caption">
 					</div>
@@ -66,7 +66,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			</div>
 
 			<div class="item">
-				<img src="images/3.jpg" alt="" />
+				<img src="<?=base_url()?>/images/3.jpg" alt="" />
 				<div class="container">
 					<div class="carousel-caption">
 					</div>
@@ -74,7 +74,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			</div>
 
 			<div class="item">
-				<img src="images/4.jpg" alt="" />
+				<img src="<?=base_url()?>/images/4.jpg" alt="" />
 				<div class="container">
 					<div class="carousel-caption">
 					</div>
@@ -82,7 +82,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			</div>
 
 			<div class="item">
-				<img src="images/5.jpg" alt="" />
+				<img src="<?=base_url()?>/images/5.jpg" alt="" />
 				<div class="container">
 					<div class="carousel-caption">
 					</div>
@@ -90,7 +90,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			</div>
 
 			<div class="item">
-				<img src="images/6.jpg" alt="" />
+				<img src="<?=base_url()?>/images/6.jpg" alt="" />
 				<div class="container">
 					<div class="carousel-caption">
 					</div>
@@ -114,10 +114,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<div class="row">
 			<!-- Left Sidebar START -->
 			<div class="col-xs-2 leftBar alpha omega" style=" ">
-				<h2 class="logo" style="background: url('images/favicon.ico') no-repeat;"><a href=""></a></h2>
+				<h2 class="logo" style="background: url('<?=base_url()?>/images/favicon.ico') no-repeat;"><a href=""></a></h2>
 
 				<ul class="navigation">
-					<li id="council_home" class="parent council-nav"><a href="">Home</a></li>
+					<li id="council_home" class="parent council-nav"><a href="<?php echo site_url('') ?>">Home</a></li>
 					<li id="council_clubs" class="parent has-sub council-nav"><a href="">Clubs</a>
 						<ul class="sub-menu col-xs-10	 alpha omega">
 							<li id="music" class="council-nav"><a href="">Music</a></li>
@@ -128,7 +128,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 					<li id="council_sac_facilities" class="parent council-nav"><a href="">Sac Facilities</a></li>
 					<li id="page_schedule" class="parent council-nav"><a href="">Schedule</a></li>
-					<li id="page_team" class="parent council-nav"><a href="">Team</a></li>
+					<li id="page_team" class="parent council-nav"><a href="<?php echo site_url('welcome/team') ?>">Team</a></li>
 					<li id="page_gallery" class="parent council-nav"><a href="">Gallery</a></li>
 
 				</ul>
