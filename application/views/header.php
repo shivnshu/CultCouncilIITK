@@ -10,7 +10,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<!-- The above 3 meta tags *must* come first in the head; any other head
 		content must come *after* these tags -->
 
-	<title>ModCult</title>
+	<title>CulturalCouncil IITK</title>
 
 	<link rel="icon" href="<?=base_url()?>/images/favicon.ico" type="image/ico" >
 

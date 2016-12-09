@@ -31,7 +31,7 @@ ul, ol {margin: 0; padding: 0;}
 /* Navigation START */
 .navigation {margin: 0; padding: 0; z-index: 8000; position: relative;}
 .navigation li { display: block;}
-.navigation li:after {content: " "; border-bottom: 0	px #818181 solid; display: block; width: 80%; margin: 0 auto;}
+.navigation li:after {content: " "; border-bottom: 1px #818181 solid; display: block; width: 80%; margin: 0 auto;}
 .navigation li:last-child:after {border-bottom: none;}
 .navigation li a {color: #fff; text-transform: uppercase; font-family: 'Raleway', sans-serif; font-size: 15px; display: block; padding: 20px 30px;}
 .navigation li a:hover{text-decoration: none; background-color: #e8ad05; -webkit-transition: background-color 200ms linear; -moz-transition: background-color 200ms linear; -o-transition: background-color 200ms linear; -ms-transition: background-color 200ms linear; transition: background-color 200ms linear;}
