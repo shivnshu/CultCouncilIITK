@@ -1,9 +1,6 @@
 	    <!-- Bottom Area START -->
 	    <footer class="footer">
-				<div class="container full-width parent">
-						<div class="bottomBar">
-						</div>
-				</div>
+				<p style="text-align: center;">&copy; Cultural Affairs Council, IIT Kanpur</p>
 			</footer>
 
 	<script src="<?=base_url()?>/js/myjs.js"></script>
