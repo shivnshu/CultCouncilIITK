@@ -3,6 +3,8 @@ $(window).bind("load", function() {
   $('.topBar').width( $(window).width() + 12);
   $('.leftBar').height( $(window).height() - 40 );
   $('.bottomBar').width( $(window).width() );
+  $('.sub-menu').css('left',($('.leftBar').width()));
+  $('.sub-menu').css('top',$('.council-nav').height());
 
 	$(function() {
 	    $('.navigation li.has-sub').hoverIntent(function(){
@@ -13,6 +15,7 @@ $(window).bind("load", function() {
 	    });
 	});
 
+
 });
 
 $( document ).ready(function() {
@@ -21,6 +24,8 @@ $( document ).ready(function() {
     $('.topBar').width( $(window).width() + 12);
     $('.leftBar').height( $(window).height() - $('.topBar').height() - $('.bottomBar').height() );
     $('.bottomBar').width( $(window).width()  );
+    $('.sub-menu').css('left',($('.leftBar').width()));
+    $('.sub-menu').css('top',$('.council-nav').height());
     ///$('.council-nav').height(($(window).height() - 400)/6);
 	};
 });
