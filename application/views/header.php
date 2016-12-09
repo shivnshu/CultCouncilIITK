@@ -17,6 +17,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<!-- Included Bootstrap CSS Files -->
 	<link rel="stylesheet" href="<?=base_url()?>/css/bootstrap.min.css" />
 
+	<link href="<?=base_url()?>/css/font-awesome.min.css" rel="stylesheet">
+
+	<link href="<?=base_url()?>/css/bootstrap-social.css" rel="stylesheet">
+
 	<!-- Just include this Css file -->
 	<link rel="stylesheet" href="<?=base_url()?>/css/jquery.carousel.fullscreen.css" />
 
@@ -61,7 +65,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			<!-- Left Sidebar START -->
 			<div class="col-xs-2 leftBar alpha omega" style=" ">
 				<!--<h2 class="logo" style="background: url('<?=base_url()?>/images/favicon.ico') no-repeat;"><a href="">	</a></h2> -->
-				<img src="images/favicon.ico" class="logo" />
+				<img src="<?=base_url()?>/images/favicon.ico" class="logo" />
 
 				<ul class="navigation">
 					<li id="council_home" class="parent council-nav"><a href="<?php echo site_url('') ?>">Home</a></li>
@@ -82,5 +86,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 			</div>
 			<!-- Left Sidebar END -->
+<!--
+			<div class="social">
+        <a class="fb" target="_blank" href=""><i class="fa fa-facebook"></i></a>
+        <a class="gp" target="_blank" href=""><i class="fa fa-google-plus"></i></a>
+        <a class="tw" target="_blank" href=""><i class="fa fa-twitter"></i></a>
+        <a class="yt" target="_blank" href=""><i class="fa fa-youtube-play"></i></a>
+    </div>
+-->
 		</div><!-- END of Row -->
 	</div><!-- END of Container -->
