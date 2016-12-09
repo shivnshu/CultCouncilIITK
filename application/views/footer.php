@@ -1,12 +1,10 @@
 	    <!-- Bottom Area START -->
-	    <div class="bottomArea">
-	    <div class="container parent full-width">
-	        <div class="row">
+	    <footer class="footer">
+				<div class="container full-width parent">
 						<div class="bottomBar">
 						</div>
-	        </div><!-- END of Row -->
-	      </div><!-- END of Container -->
-	    </div>
+				</div>
+			</footer>
 
 	<script src="<?=base_url()?>/js/myjs.js"></script>
 	<script src="<?=base_url()?>/js/jQuery/jquery.min.js"></script>

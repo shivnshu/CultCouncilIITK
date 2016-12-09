@@ -29,7 +29,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<!-- Carousel -->
 	<div id="homeCarousel" class="carousel slide" data-ride="carousel">
 		<!-- Indicators -->
-		<ol class="carousel-indicators">
+		<!--<ol class="carousel-indicators">
 			<li data-target="#homeCarousel" data-slide-to="0" class="active"></li>
 			<li data-target="#homeCarousel" data-slide-to="1"></li>
 			<li data-target="#homeCarousel" data-slide-to="2"></li>
@@ -37,7 +37,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			<li data-target="#homeCarousel" data-slide-to="4"></li>
 			<li data-target="#homeCarousel" data-slide-to="5"></li>
 			<li data-target="#homeCarousel" data-slide-to="6"></li>
-		</ol>
+		</ol> -->
 
 		<!-- Wrapper for slides -->
 		<div class="carousel-inner">
@@ -48,58 +48,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 					</div>
 				</div>
 			</div>
-
-			<div class="item">
-				<img src="<?=base_url()?>/images/1.jpg" alt="" />
-				<div class="container">
-					<div class="carousel-caption">
-					</div>
-				</div>
-			</div>
-
-			<div class="item">
-				<img src="<?=base_url()?>/images/2.jpg" alt="" />
-				<div class="container">
-					<div class="carousel-caption">
-					</div>
-				</div>
-			</div>
-
-			<div class="item">
-				<img src="<?=base_url()?>/images/3.jpg" alt="" />
-				<div class="container">
-					<div class="carousel-caption">
-					</div>
-				</div>
-			</div>
-
-			<div class="item">
-				<img src="<?=base_url()?>/images/4.jpg" alt="" />
-				<div class="container">
-					<div class="carousel-caption">
-					</div>
-				</div>
-			</div>
-
-			<div class="item">
-				<img src="<?=base_url()?>/images/5.jpg" alt="" />
-				<div class="container">
-					<div class="carousel-caption">
-					</div>
-				</div>
-			</div>
-
-			<div class="item">
-				<img src="<?=base_url()?>/images/6.jpg" alt="" />
-				<div class="container">
-					<div class="carousel-caption">
-					</div>
-				</div>
-			</div>
-
 		</div>
-
-	</div>
 
 	<div class="global-bar">
 		<div class="container parent full-width">
@@ -126,7 +75,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 						</ul>
 					</li>
 
-					<li id="council_sac_facilities" class="parent council-nav"><a href="">Sac Facilities</a></li>
+					<li id="page_galaxy" class="parent council-nav"><a href="">Galaxy</a></li>
 					<li id="page_schedule" class="parent council-nav"><a href="">Schedule</a></li>
 					<li id="page_team" class="parent council-nav"><a href="<?php echo site_url('welcome/team') ?>">Team</a></li>
 					<li id="page_gallery" class="parent council-nav"><a href="">Gallery</a></li>
