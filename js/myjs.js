@@ -4,6 +4,7 @@ $(window).bind("load", function() {
   $('.leftBar').height( $(window).height() - 40 );
   $('.bottomBar').width( $(window).width() );
 
+
 	$(function() {
 	    $('.navigation li.has-sub').hoverIntent(function(){
 	        $(this).addClass("active").find('.sub-menu').fadeIn("fast");

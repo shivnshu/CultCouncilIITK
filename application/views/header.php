@@ -60,7 +60,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<div class="row">
 			<!-- Left Sidebar START -->
 			<div class="col-xs-2 leftBar alpha omega" style=" ">
-				<h2 class="logo" style="background: url('<?=base_url()?>/images/favicon.ico') no-repeat;"><a href=""></a></h2>
+				<!--<h2 class="logo" style="background: url('<?=base_url()?>/images/favicon.ico') no-repeat;"><a href="">	</a></h2> -->
+				<img src="images/favicon.ico" class="logo" />
 
 				<ul class="navigation">
 					<li id="council_home" class="parent council-nav"><a href="<?php echo site_url('') ?>">Home</a></li>

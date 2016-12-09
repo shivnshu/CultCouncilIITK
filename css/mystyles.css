@@ -19,8 +19,13 @@ ul, ol {margin: 0; padding: 0;}
 
 
 /* Logo START */
-.logo {padding: 10px 0px 10px 0px;}
-.logo a {display: block; width: 149px; height: 150px; margin: 0 auto;  text-indent: -99999px;}
+.logo {padding: 10px 0px 10px 0px; }
+/*.logo a {display: block; width: 149px; height: 150px; margin: 0 auto;  text-indent: -99999px;}*/
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
 /* Logo END */
 
 /* Navigation START */
@@ -39,7 +44,11 @@ ul, ol {margin: 0; padding: 0;}
 
 /* Footer START */
 footer {font-family: 'Raleway', sans-serif; font-size: 12px; color: #fff; text-transform: uppercase; background-color: #000; position: absolute; width: 100%; min-height: 25px; padding-top: 10px; bottom: 0;}
-/* Footer END *
+/* Footer END */
+
+.council-nav {
+	text-align: center;
+}
 
 /* Media Queries START */
 @media screen and (max-width: 1366px) {
