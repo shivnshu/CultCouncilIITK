@@ -86,13 +86,3 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 			</div>
 			<!-- Left Sidebar END -->
-
-			<div class="social rightBar">
-        <a class="fb" target="_blank" href=""><i class="fa fa-facebook"></i></a>
-        <a class="gp" target="_blank" href=""><i class="fa fa-google-plus"></i></a>
-        <a class="tw" target="_blank" href=""><i class="fa fa-twitter"></i></a>
-        <a class="yt" target="_blank" href=""><i class="fa fa-youtube-play"></i></a>
-    </div>
-
-		</div><!-- END of Row -->
-	</div><!-- END of Container -->

@@ -19,6 +19,40 @@ ul, ol {margin: 0; padding: 0;}
 .topBar {background-color: rgba(0, 0, 0, .6); position: absolute; top: 0px; width: 100%; min-height: 35px;}
 .leftBar {background-color: rgba(0, 0, 0, .6); position: absolute; top: 35px; min-width: 317px; height: 100%;}
 .rightBar {position: absolute; top: 35px; height: auto;}
+.page-title {
+  background-color: rgba(0, 0, 0, .6);
+  position: absolute;
+  top: 70px;
+  height: auto;
+}
+.scrollBar {
+  background-color: rgba(0, 0, 0, .6);
+  position: absolute;
+  top:170px;
+  height: 500px;
+}
+
+.scroll-pane{
+				overflow: auto;
+}
+
+.jspVerticalBar
+{
+    width: 10px;
+    background: transparent;
+}
+
+.jspVerticalBar .jspTrack
+{
+    background: transparent;
+}
+
+.jspVerticalBar .jspDrag
+{
+    background: transparent;
+    border-right: 2px solid #00f;
+}
+
 
 /* Logo START */
 .logo {padding: 10px 0px 10px 0px; }
@@ -73,6 +107,11 @@ footer {font-family: 'Raleway', sans-serif; font-size: 12px; color: #fff; text-t
       margin-bottom: 7px;
       border-radius: 50%;
       transition: all 300ms ease;
+}
+
+.yt:hover {
+  transition: 0.9s;
+  transform: rotateX(180deg);
 }
 
 /* Media Queries START */

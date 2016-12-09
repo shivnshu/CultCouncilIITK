@@ -1,4 +1,15 @@
-	  <!-- Bottom Area START -->
+
+			<div class="social rightBar">
+        <a class="fb" target="_blank" href=""><i class="fa fa-facebook"></i></a>
+        <a class="gp" target="_blank" href=""><i class="fa fa-google-plus"></i></a>
+        <a class="tw" target="_blank" href=""><i class="fa fa-twitter"></i></a>
+        <a class="yt" target="_blank" href=""><i class="fa fa-youtube-play"></i></a>
+    </div>
+
+		</div><!-- END of Row -->
+	</div><!-- END of Container -->
+
+		<!-- Bottom Area START -->
 	  <footer class="footer">
 			<p style="text-align: center;">&copy; Cultural Affairs Council, IIT Kanpur</p>
 		</footer>
@@ -16,7 +27,8 @@
 	<script src="<?=base_url()?>/js/jquery.jscrollpane.css"></script>
 	<script src="<?=base_url()?>/js/jquery.mousewheel.js"></script>
 	<script src="<?=base_url()?>/js/mwheelIntent.js"></script>
-	<script src="<?=base_url()?>/js/jquery.jscrollpane.min.js"></script>
+
+	<script type="text/javascript" src="<?=base_url()?>/js/jquery.jscrollpane.min.js"></script>
 
 	<script src="<?=base_url()?>/js/myjs.js"></script>
 </body>
