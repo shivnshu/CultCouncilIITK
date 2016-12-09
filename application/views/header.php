@@ -63,7 +63,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<div class="container parent">
 		<div class="row">
 			<!-- Left Sidebar START -->
-			<div class="col-xs-2 leftBar alpha" style=" ">
+			<div class="col-xs-2 leftBar alpha omega" style=" ">
 				<!--<h2 class="logo" style="background: url('<?=base_url()?>/images/favicon.ico') no-repeat;"><a href="">	</a></h2> -->
 				<img src="<?=base_url()?>/images/favicon.ico" class="logo" />
 
@@ -87,7 +87,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			</div>
 			<!-- Left Sidebar END -->
 
-			<div class="social rightBar omega">
+			<div class="social rightBar">
         <a class="fb" target="_blank" href=""><i class="fa fa-facebook"></i></a>
         <a class="gp" target="_blank" href=""><i class="fa fa-google-plus"></i></a>
         <a class="tw" target="_blank" href=""><i class="fa fa-twitter"></i></a>
