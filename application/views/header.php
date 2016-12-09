@@ -49,15 +49,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				</div>
 			</div>
 		</div>
+		</div>
 
 	<div class="global-bar">
-		<div class="container parent full-width">
-			<div class="row">
-				<div class="topBar">
-				</div>
-			</div><!-- END of Row -->
-		</div><!-- END of Container -->
-	</div><!-- END of Global Bar -->
+			<div class="topBar">
+			</div>
+	</div>
 
 	<div class="container parent">
 		<div class="row">

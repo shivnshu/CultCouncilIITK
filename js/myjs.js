@@ -1,7 +1,7 @@
 $(window).bind("load", function() {
 	// Adjust heigt of Left Sidebar
-  $('.topBar').width( $(window).width() + 20);
-  $('.leftBar').height( $(window).height() - 30 );
+  $('.topBar').width( $(window).width() + 12);
+  $('.leftBar').height( $(window).height() - 40 );
   $('.bottomBar').width( $(window).width() );
 
 	$(function() {
@@ -18,7 +18,7 @@ $(window).bind("load", function() {
 $( document ).ready(function() {
 	window.onresize = function() {
 		// Adjust heigt of Left Sidebar
-    $('.topBar').width( $(window).width() + 15);
+    $('.topBar').width( $(window).width() + 12);
     $('.leftBar').height( $(window).height() - $('.topBar').height() - $('.bottomBar').height() );
     $('.bottomBar').width( $(window).width()  );
     ///$('.council-nav').height(($(window).height() - 400)/6);
