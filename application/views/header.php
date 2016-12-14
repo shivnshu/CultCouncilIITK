@@ -52,6 +52,20 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 					</div>
 				</div>
 			</div>
+			<div class="item">
+				<img src="<?=base_url()?>/images/2.jpg" alt="" />
+				<div class="container">
+					<div class="carousel-caption">
+					</div>
+				</div>
+			</div>
+			<div class="item">
+				<img src="<?=base_url()?>/images/3.jpg" alt="" />
+				<div class="container">
+					<div class="carousel-caption">
+					</div>
+				</div>
+			</div>
 		</div>
 		</div>
 
