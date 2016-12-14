@@ -77,12 +77,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<div class="container parent">
 		<div class="row">
 			<!-- Left Sidebar START -->
-			<div class="col-xs-2 leftBar alpha omega" style=" ">
+			<div class="col-xs-3 leftBar alpha omega" style=" ">
 				<!--<h2 class="logo" style="background: url('<?=base_url()?>/images/favicon.ico') no-repeat;"><a href="">	</a></h2> -->
 				<img src="<?=base_url()?>/images/favicon.ico" class="logo img-responsive" id="cultlogo"/>
 
 				<ul class="navigation">
-					<li id="council_home" class="parent council-nav"><a href="<?php echo site_url('') ?>">Home</a></li>
+					<li id="council_home" class="parent council-nav"><a href="<?php echo site_url('') ?>"><i class="fa fa-home fa-3x" aria-hidden="true" style="margin-right:16px" ></i>Home</a></li>
 					<li id="council_clubs" class="parent has-sub council-nav"><a href="">Clubs</a>
 						<ul class="sub-menu col-xs-10	 alpha omega">
 							<li id="music" class="council-nav"><a href="">Music</a></li>
@@ -92,9 +92,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 					</li>
 
 					<li id="page_galaxy" class="parent council-nav"><a target="_blank" href="http://students.iitk.ac.in/cultcouncil/galaxy/">Galaxy</a></li>
-					<li id="page_schedule" class="parent council-nav"><a href="<?php echo site_url('welcome/schedule') ?>">Schedule</a></li>
-					<li id="page_team" class="parent council-nav"><a href="<?php echo site_url('welcome/team') ?>">Team</a></li>
-					<li id="page_gallery" class="parent council-nav"><a href="">Gallery</a></li>
+					<li id="page_schedule" class="parent council-nav"><a href="<?php echo site_url('welcome/schedule') ?>"><i class="fa fa-calendar fa-3x" aria-hidden="true" style="margin-right:16px" ></i>Schedule</a></li>
+					<li id="page_team" class="parent council-nav"><a href="<?php echo site_url('welcome/team') ?>"><i class="fa fa-group fa-3x" aria-hidden="true" style="margin-right:16px" ></i>Team</a></li>
+					<li id="page_gallery" class="parent council-nav"><a href=""><i class="fa fa-image fa-3x" aria-hidden="true" style="margin-right:16px" ></i>Gallery</a></li>
 
 				</ul>
 
