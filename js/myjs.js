@@ -17,6 +17,11 @@ $(window).bind("load", function() {
 
 
 });
+$('#scrollbox').enscroll({
+    showOnHover: true,
+    verticalTrackClass: 'track3',
+    verticalHandleClass: 'handle3'
+});
 
 $( document ).ready(function() {
 	window.onresize = function() {
