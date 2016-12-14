@@ -1,9 +1,9 @@
 
 			<div class="social rightBar">
-        <a class="fb" target="_blank" href=""><i class="fa fa-facebook"></i></a>
+        <a class="fb" target="_blank" href="https://www.facebook.com/CulturalCouncilIitKanpur/"><i class="fa fa-facebook"></i></a>
         <a class="gp" target="_blank" href=""><i class="fa fa-google-plus"></i></a>
         <a class="inst" target="_blank" href=""><i class="fa fa-instagram"></i></a>
-        <a class="yt" target="_blank" href=""><i class="fa fa-youtube-play"></i></a>
+        <a class="yt" target="_blank" href="https://www.youtube.com/channel/UCHTssedqbiRqucZJOj8wFBQ"><i class="fa fa-youtube-play"></i></a>
     </div>
 
 		</div><!-- END of Row -->
@@ -11,7 +11,7 @@
 
 		<!-- Bottom Area START -->
 	  <footer class="footer">
-			<p style="text-align: center;">&copy; Cultural Affairs Council, IIT Kanpur</p>
+			<p style="text-align: center;">&copy; Cultural Affairs Council, IIT Kanpur 2016-17</p>
 		</footer>
 
 	<script src="<?=base_url()?>/js/myjs.js"></script>
