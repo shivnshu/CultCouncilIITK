@@ -2,7 +2,7 @@
 			<div class="social rightBar">
         <a class="fb" target="_blank" href=""><i class="fa fa-facebook"></i></a>
         <a class="gp" target="_blank" href=""><i class="fa fa-google-plus"></i></a>
-        <a class="tw" target="_blank" href=""><i class="fa fa-twitter"></i></a>
+        <a class="inst" target="_blank" href=""><i class="fa fa-instagram"></i></a>
         <a class="yt" target="_blank" href=""><i class="fa fa-youtube-play"></i></a>
     </div>
 

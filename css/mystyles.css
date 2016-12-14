@@ -111,9 +111,46 @@ footer {font-family: 'Raleway', sans-serif; font-size: 12px; color: #fff; text-t
       transition: all 300ms ease;
 }
 
-.yt:hover {
-  transition: 0.9s;
-  transform: rotateX(180deg);
+/* Social Icons Css */
+.fb{
+  background-color: #3F5C9A!important;
+}
+.fb:hover{
+  -webkit-transform: scale(1.1) rotate(360deg);
+  -moz-transform: scale(1.1) rotate(360deg);
+  -ms-transform: scale(1.1) rotate(360deg);
+  -o-transform: scale(1.1) rotate(360deg);
+  transform: scale(1.1) rotate(360deg);
+}
+.gp{
+  background-color: #DB4437!important;
+}
+.gp:hover{
+  -webkit-transform: scale(1.1) rotate(360deg);
+  -moz-transform: scale(1.1) rotate(360deg);
+  -ms-transform: scale(1.1) rotate(360deg);
+  -o-transform: scale(1.1) rotate(360deg);
+  transform: scale(1.1) rotate(360deg);
+}
+.inst{
+  background-color:#A1755C!important;
+}
+.inst:hover{
+  -webkit-transform: scale(1.1) rotate(360deg);
+  -moz-transform: scale(1.1) rotate(360deg);
+  -ms-transform: scale(1.1) rotate(360deg);
+  -o-transform: scale(1.1) rotate(360deg);
+  transform: scale(1.1) rotate(360deg);
+}
+.yt{
+  background-color:#C52F30!important;
+}
+.yt:hover{
+  -webkit-transform: scale(1.1) rotate(360deg);
+  -moz-transform: scale(1.1) rotate(360deg);
+  -ms-transform: scale(1.1) rotate(360deg);
+  -o-transform: scale(1.1) rotate(360deg);
+  transform: scale(1.1) rotate(360deg);
 }
 
 /* Media Queries START */
