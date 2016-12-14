@@ -1,10 +1,11 @@
 <?php include 'header.php';?>
 
-<div class="page-title col-xs-offset-3 col-xs-6">
+<div class="page-title  col-xs-6 col-xs-offset-3">
   <h1>Team</h1>
+  <div class="scrollBar scroll-pane  col-xs-6"></div>
 </div>
 
-<div class="scrollBar scroll-pane col-xs-offset-3 col-xs-6">
+
 
 
 <!--    <div class="jspContainer">
@@ -28,6 +29,6 @@
 
     </div>
   -->
-</div>
+
 
 <?php include 'footer.php';?>
