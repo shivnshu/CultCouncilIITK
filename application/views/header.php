@@ -77,7 +77,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 						</ul>
 					</li>
 
-					<li id="page_galaxy" class="parent council-nav"><a href="">Galaxy</a></li>
+					<li id="page_galaxy" class="parent council-nav"><a target="_blank" href="http://students.iitk.ac.in/cultcouncil/galaxy/">Galaxy</a></li>
 					<li id="page_schedule" class="parent council-nav"><a href="<?php echo site_url('welcome/schedule') ?>">Schedule</a></li>
 					<li id="page_team" class="parent council-nav"><a href="<?php echo site_url('welcome/team') ?>">Team</a></li>
 					<li id="page_gallery" class="parent council-nav"><a href="">Gallery</a></li>
