@@ -46,26 +46,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<!-- Wrapper for slides -->
 		<div class="carousel-inner">
 			<div class="item active">
-				<img src="<?=base_url()?>/images/1.jpg" alt="" />
+				<img src="<?=base_url()?>/images/01.jpg" alt="" />
 				<div class="container">
 					<div class="carousel-caption">
 					</div>
 				</div>
 			</div>
-			<div class="item">
-				<img src="<?=base_url()?>/images/2.jpg" alt="" />
-				<div class="container">
-					<div class="carousel-caption">
-					</div>
-				</div>
-			</div>
-			<div class="item">
-				<img src="<?=base_url()?>/images/3.jpg" alt="" />
-				<div class="container">
-					<div class="carousel-caption">
-					</div>
-				</div>
-			</div>
+			
 		</div>
 		</div>
 
@@ -82,7 +69,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				<img src="<?=base_url()?>/images/favicon.ico" class="logo img-responsive" id="cultlogo"/>
 
 				<ul class="navigation">
-					<li id="council_home" class="parent council-nav"><a href="<?php echo site_url('') ?>"><i class="fa fa-home fa-3x" aria-hidden="true" style="margin-right:16px" ></i>Home</a></li>
+					<li id="council_home" class="parent council-nav"><a href="<?php echo site_url('') ?>">Home</a></li>
 					<li id="council_clubs" class="parent has-sub council-nav"><a href="">Clubs</a>
 						<ul class="sub-menu col-xs-10	 alpha omega">
 							<li id="music" class="council-nav"><a href="">Music</a></li>
@@ -92,9 +79,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 					</li>
 
 					<li id="page_galaxy" class="parent council-nav"><a target="_blank" href="http://students.iitk.ac.in/cultcouncil/galaxy/">Galaxy</a></li>
-					<li id="page_schedule" class="parent council-nav"><a href="<?php echo site_url('welcome/schedule') ?>"><i class="fa fa-calendar fa-3x" aria-hidden="true" style="margin-right:16px" ></i>Schedule</a></li>
-					<li id="page_team" class="parent council-nav"><a href="<?php echo site_url('welcome/team') ?>"><i class="fa fa-group fa-3x" aria-hidden="true" style="margin-right:16px" ></i>Team</a></li>
-					<li id="page_gallery" class="parent council-nav"><a href=""><i class="fa fa-image fa-3x" aria-hidden="true" style="margin-right:16px" ></i>Gallery</a></li>
+					<li id="page_schedule" class="parent council-nav"><a href="<?php echo site_url('welcome/schedule') ?>">Schedule</a></li>
+					<li id="page_team" class="parent council-nav"><a href="<?php echo site_url('welcome/team') ?>">Team</a></li>
+					<li id="page_gallery" class="parent council-nav"><a href="">Gallery</a></li>
 
 				</ul>
 
