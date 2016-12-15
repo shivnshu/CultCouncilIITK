@@ -47,8 +47,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<div class="carousel-inner">
 			<div class="item active">
 				<img src="<?=base_url()?>/images/01.jpg" alt="" />
-				<div class="container">
-					
+				<div class="carousel-caption">
+					<h1>hjj</h1>
+					<p>iywgdhvbjvfyrdyfgjbh</p>
 				</div>
 			</div>
 
