@@ -26,6 +26,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 	<link rel="stylesheet" href="<?=base_url()?>/css/mystyles.css" />
 
+	<!--Animate.css-->
+	<link rel="stylesheet" href="<?=base_url()?>/css/animate.css" />
+
 </head>
 <body>
 
@@ -48,7 +51,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			<div class="item active">
 				<img src="<?=base_url()?>/images/01.jpg" alt="" />
 				<div class="carousel-caption">
-					<h1>hjj</h1>
+					<h1 id="animateit" style="color:red;">hjj</h1>  <!--For eg SEE JS file-->
 					<p>iywgdhvbjvfyrdyfgjbh</p>
 				</div>
 			</div>

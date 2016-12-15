@@ -8,6 +8,10 @@ $( document ).ready(function() {
       $('.sub-menu').css('top',$('.council-nav').height());
       $('.scrollBar').height($(window).height()*.62);
 
+
+      $('#animateit').addClass('animated fadeInLeft'); //example animate.css
+
+
     	$(function() {
     	    $('.navigation li.has-sub').hoverIntent(function(){
     	        $(this).addClass("active").find('.sub-menu').fadeIn("fast");
