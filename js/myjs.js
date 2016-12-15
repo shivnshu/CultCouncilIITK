@@ -1,6 +1,6 @@
 $(window).bind("load", function() {
 	// Adjust heigt of Left Sidebar
-  $('.topBar').width( $(window).width() + 12);
+  $('.topBar').width( $(window).width() );
   $('.leftBar').height( $(window).height() - 40 );
   $('.bottomBar').width( $(window).width() );
   $('.sub-menu').css('left',($('.leftBar').width()));
