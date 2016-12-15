@@ -48,11 +48,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			<div class="item active">
 				<img src="<?=base_url()?>/images/01.jpg" alt="" />
 				<div class="container">
-					<div class="carousel-caption">
-					</div>
+					
 				</div>
 			</div>
-			
+
 		</div>
 		</div>
 
