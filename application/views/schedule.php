@@ -6,7 +6,7 @@
 });
 </script>
 
-<div class="page-title  col-xs-6 col-xs-offset-3">
+<div style= "margin-left:30%" class="page-title  col-xs-6 col-xs-offset-3">
   <h1>Schedule</h1>
   <div class="scrollBar scroll-pane  col-xs-6" id = "scrollbox">
     <p>".htm" and ".html" redirect here. For other uses, see HTM (disambiguation).
