@@ -28,8 +28,14 @@ class Welcome extends CI_Controller {
 		$this->load->view('team');
 	}
 
-            public function schedule()
-            {
-            	$this->load->view('schedule');
-            }
+    public function schedule()
+    {
+    	$this->load->view('schedule');
+    }
+
+	public function els()
+    {
+    	$this->load->view('clubs/els');
+    }
+
 }

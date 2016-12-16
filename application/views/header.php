@@ -49,11 +49,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<!-- Wrapper for slides -->
 		<div class="carousel-inner">
 			<div class="item active">
-				<img src="<?=base_url()?>/images/01.jpg" alt="" />
-				<div class="carousel-caption">
-					<h1 id="animateit" style="color:red;">hjj</h1>  <!--For eg SEE JS file-->
+				<img src="<?=base_url()?>/images/els.jpg" alt="" />
+				<!-- <div class="carousel-caption">
+					<h1 id="animateit" style="color:red;">hjj</h1>
 					<p>iywgdhvbjvfyrdyfgjbh</p>
-				</div>
+				</div> -->
 			</div>
 
 		</div>
@@ -78,6 +78,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 							<li id="music" class="council-nav"><a href="">Music</a></li>
 							<li id="dance" class="council-nav"><a href="">Dance</a></li>
 							<li id="dramatics" class="council-nav"><a href="">Dramatics</a></li>
+							<li id="els" class="council-nav"><a href="<?php echo site_url('welcome/els') ?>">ELS</a></li>
 						</ul>
 					</li>
 
