@@ -7,27 +7,27 @@
 </script>
 
 <div style= "margin-left:30%" class="page-title  col-xs-6 col-xs-offset-3">
-  <h1>Schedule</h1>
+  <h1 class="scroll-title">Schedule</h1>
   <div class="scrollBar scroll-pane  col-xs-6" id = "scrollbox">
     <p>".htm" and ".html" redirect here. For other uses, see HTM (disambiguation).
 For the use of HTML on Wikipedia, see Help:HTML in wikitext.
 HTML
 (HyperText Markup Language)
 HTML.svg
-Filename extension  
+Filename extension
 .html
 .htm
 Internet media type text/html
 Type code TEXT
 Developed by  W3C & WHATWG
 Initial release 1993; 23 years ago
-Latest release  
+Latest release
 5.0 / 5.1 (working draft)
 (28 October 2014; 2 years ago)
 Type of format  Document file format
 Extended from SGML
 Extended to XHTML
-Standard  
+Standard
 ISO/IEC 15445
 </p>
 <p>
@@ -35,13 +35,13 @@ W3C HTML5
 HTML Living Standard
 W3C HTML 5.1
 Open format?  Yes
-Website 
+Website
 www.w3.org/html/
 whatwg.org
 HTML
 <p> ajdbiu iskc b sobcs lsbv </p>
 <h3> sbcasuboa ojdb ou </h3>
-HTML Dynamic HTML HTML5 audio canvas video XHTML Basic Mobile 
+HTML Dynamic HTML HTML5 audio canvas video XHTML Basic Mobile
 Profile C-HTML HTML element span and div HTML attribute HTML frame HTML editor Character encodings Unicode Language code Document Object Model Browser Object Model Style sheets CSS Font family Web colors HTML scripting JavaScript WebGL WebCL W3C Validator WHATWG Quirks mode Web storage Web browser (layout) engine
 Comparisons
 Document markup languages Web browsers HTML Non-standard HTML HTML5 canvas media) XHTML 1.1

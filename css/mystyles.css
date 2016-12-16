@@ -145,8 +145,12 @@ footer {font-family: 'Raleway', sans-serif; font-size: 12px; color: #6C6968; tex
   position: absolute;
   top: 12%;
   height: auto;
+  text-align: center;
   width: 60%;
+}
 
+.scroll-title{
+    color: white;
 }
 
 .scrollBar{

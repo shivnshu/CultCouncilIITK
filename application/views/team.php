@@ -7,7 +7,7 @@
 </script>
 
 <div style= "margin-left:32%" class="page-title  col-xs-6 col-xs-offset-3">
-  <h1>Team</h1>
+  <h1 class="scroll-title">Team</h1>
   <div class="scrollBar scroll-pane  col-xs-8" id = "scrollbox">
     <p>".htm" and ".html" redirect here. For other uses, see HTM (disambiguation).
 For the use of HTML on Wikipedia, see Help:HTML in wikitext.
