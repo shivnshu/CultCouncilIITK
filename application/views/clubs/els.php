@@ -7,8 +7,14 @@
 </script>
 
 <div style= "margin-left:32%" class="page-title  col-xs-6 col-xs-offset-3">
-  <h1 class="scroll-title">English Literary Society</h1>
+  <h1 class="scroll-title" style="background-color:#7F1011; padding:10px">English Literary Society</h1>
   <div class="scrollBar scroll-pane  col-xs-8" id = "scrollbox">
+
+        <div class="clubs-trans-div" style="width:100%; height:277px">
+
+        </div>
+        <div class="clubs-content">
+
     <p>".htm" and ".html" redirect here. For other uses, see HTM (disambiguation).
 For the use of HTML on Wikipedia, see Help:HTML in wikitext.
 HTML
@@ -54,33 +60,9 @@ HTML elements are the building blocks of HTML pages. With HTML constructs, image
 <p>ljfbnv;ldjovn</p>
 <p>aknbfhb,</p>
 HTML can embed programs written in a scripting language such as JavaScript which affect the behavior and content of web pages. Inclusion of CSS defines the look and layout of content. The World Wide Web Consortium (W3C), maintainer of both the HTML and the CSS standards, has encouraged the use of CSS over explicit presentational HTML since 1997.[2]</p>
+
+</div>
   </div>
 </div>
-
-
-
-
-<!--    <div class="jspContainer">
-
-      <div class="jspPane">
-      </div>
-
-      <div class="jspVerticalBar">
-        <div class="jspCap jspCapTop">
-        </div>
-        <div class="jspTrack" style="height: 380px;">
-          <div class="jspDrag" style="height: 55.6px;">
-            <div class="jspDragTop">
-            </div>
-            <div class="jspDragBottom">
-            </div>
-          </div>
-        </div>
-        <div class="jspCap jspCapBottom"></div>
-      </div>
-
-    </div>
-  -->
-
 
 <?php include(dirname(__FILE__)."/../footer.php");?>
