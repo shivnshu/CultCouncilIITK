@@ -37,9 +37,20 @@ class Welcome extends CI_Controller {
     	$this->load->view('schedule');
     }
 
-	public function els()
+	public function music()
     {
-    	$this->load->view('clubs/els');
+    	$this->load->view('clubs/music');
     }
-
+            public function dance()
+    {
+        $this->load->view('clubs/dance');
+    }
+            public function dramatics()
+    {
+        $this->load->view('clubs/dramatics');
+    }
+    public function els()
+    {
+        $this->load->view('clubs/els');
+    }
 }
