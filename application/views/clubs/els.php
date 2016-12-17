@@ -7,7 +7,9 @@
 </script>
 
 <div style= "margin-left:32%" class="page-title  col-xs-6 col-xs-offset-3">
-  <h1 class="scroll-title" style="background-color:rgba(157, 18, 18, .7); padding:10px">English Literary Society</h1>
+    
+  <h1 class="scroll-title">English Literary Society</h1>
+
   <div class="scrollBar scroll-pane  col-xs-8" id = "scrollbox">
 
         <div class="clubs-trans-div" style="width:100%;opacity:1;margin-bottom: 20px;">
