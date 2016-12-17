@@ -27,6 +27,10 @@ class Welcome extends CI_Controller {
 	{
 		$this->load->view('team');
 	}
+	public function Gallery()
+    {
+    	$this->load->view('Gallery');
+    }
 
     public function schedule()
     {
