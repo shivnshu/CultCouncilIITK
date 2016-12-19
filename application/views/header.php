@@ -79,6 +79,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 							<li id="dance" class="council-nav"><a href="<?php echo site_url('welcome/dance') ?>">Dance</a></li>
 							<li id="dramatics" class="council-nav"><a href="<?php echo site_url('welcome/dramatics') ?>">Dramatics</a></li>
 							<li id="els" class="council-nav"><a href="<?php echo site_url('welcome/els') ?>">ELS</a></li>
+							<li id="fac" class="council-nav"><a href="<?php echo site_url('welcome/fac') ?>">Fine Arts Club</a></li>
 						</ul>
 					</li>
 
