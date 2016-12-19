@@ -29,6 +29,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<!--Animate.css-->
 	<link rel="stylesheet" href="<?=base_url()?>/css/animate.css" />
 
+	<!--For Gallery -->
+	<link rel="stylesheet" href="<?=base_url()?>/css/swipebox.min.css">
+
 </head>
 <body>
 
