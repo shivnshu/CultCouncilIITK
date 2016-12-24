@@ -14,9 +14,9 @@
 
         <div class="clubs-trans-div" style="width:100%;opacity:1;margin-bottom: 20px;">
 
-        <ul class="nav nav-tabs" style="margin-bottom: 20px;">
-  <li class="active"><a data-toggle="tab" href="#about-els">About</a></li>
-  <li><a data-toggle="tab" href="#events-els">Events</a></li>
+        <ul class="nav nav-tabs" style="margin-bottom: 20px;background-color:green;">
+  <li class="active" ><a data-toggle="tab" href="#about-els" >About</a></li>
+  <li><a data-toggle="tab" href="#events-els" >Events</a></li>
   <li><a data-toggle="tab" href="#joinus-els">Join Us</a></li>
 </ul>
 
