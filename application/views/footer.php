@@ -29,7 +29,18 @@
 	<script src="<?=base_url()?>/js/mwheelIntent.js"></script>
 
 	<script type="text/javascript" src="<?=base_url()?>/js/jquery.jscrollpane.min.js"></script>
+<!-- For Gallery -->
+	<script src="<?=base_url()?>/js/jquery.swipebox.min.js"></script>
 
 	<script src="<?=base_url()?>/js/myjs.js"></script>
+
+	<script type="text/javascript">
+	    ;( function( $ ) {
+
+	    	$( '.swipebox' ).swipebox();
+
+	    } )( jQuery );
+	</script>
+	
 </body>
 </html>

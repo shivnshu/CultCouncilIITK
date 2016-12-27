@@ -6,7 +6,7 @@
 });
 </script>
 
-<script src="<?=base_url()?>/js/jquery.swipebox.min.js"></script>
+
 
 <div style= "margin-left:32%" class="page-title  col-xs-6 col-xs-offset-3">
 
@@ -46,12 +46,6 @@
 </div>
 
 
-<script type="text/javascript">
-    ;( function( $ ) {
 
-    	$( '.swipebox' ).swipebox();
-
-    } )( jQuery );
-</script>
 
 <?php include 'footer.php';?>
