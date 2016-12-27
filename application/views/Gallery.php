@@ -40,6 +40,18 @@
             </a>
         </li>
 
+        <li class="gallery-box">
+           <a href="<?=base_url()?>/images/8.jpg" class="swipebox" title="My Caption">
+              <img src="<?=base_url()?>/images/8.jpg" alt="image" >
+            </a>
+        </li>
+
+        <li class="gallery-box">
+           <a href="<?=base_url()?>/images/8.jpg" class="swipebox" title="My Caption">
+              <img src="<?=base_url()?>/images/8.jpg" alt="image" >
+            </a>
+        </li>
+
     </ul>
 
   </div>
