@@ -13,8 +13,42 @@
   <div class="scrollBar scroll-pane  col-xs-8" id = "scrollbox">
 
       <div class="">
-          <ul>
-              <li>ftghjk</li>
+          <ul style="list-style:none;">
+
+              <li style="width:30%; float:left;">
+                  <div class="our-team">
+                     <img src="<?=base_url()?>/images/profile.jpg" alt="">
+                     <div class="team-content">
+                         <h3 class="team-prof">
+                             Williamson
+                             <small>Web designer</small>
+                         </h3>
+                         <ul class="social-link">
+                             <li><a href="#" class="fa fa-facebook"></a></li>
+                             <li><a href="#" class="fa fa-google"></a></li>
+                             <li><a href="#" class="fa fa-twitter"></a></li>
+                         </ul>
+                     </div>
+                 </div>
+              </li>
+
+              <li style="width:30%; float:right;">
+                  <div class="our-team">
+                     <img src="<?=base_url()?>/images/profile.jpg" alt="">
+                     <div class="team-content">
+                         <h3 class="team-prof">
+                             Williamson
+                             <small>Web designer</small>
+                         </h3>
+                         <ul class="social-link">
+                             <li><a href="#" class="fa fa-facebook"></a></li>
+                             <li><a href="#" class="fa fa-google"></a></li>
+                             <li><a href="#" class="fa fa-twitter"></a></li>
+                         </ul>
+                     </div>
+                 </div>
+              </li>
+
           </ul>
       </div>
 
