@@ -14,28 +14,30 @@
 
   <div class="scrollBar scroll-pane  col-xs-8" id = "scrollbox">
 
-  <ul>
-      <li>
-      <a href="big/image.jpg" class="swipebox" title="My Caption">
-        <img src="<?=base_url()?>/images/8.jpg" alt="image" class="gallery-img left">
-    </a>
-    </li>
-    <li>
-    <a href="big/image.jpg" class="swipebox" title="My Caption">
-      <img src="<?=base_url()?>/images/8.jpg" alt="image" class="gallery-img right">
-  </a>
-  </li>
-  <li>
-  <a href="big/image.jpg" class="swipebox" title="My Caption">
-    <img src="<?=base_url()?>/images/8.jpg" alt="image">
-</a>
-</li>
-<li>
-<a href="big/image.jpg" class="swipebox" title="My Caption">
-  <img src="<?=base_url()?>/images/8.jpg" alt="image" >
-</a>
-</li>
-</ul>
+      <ul class="gallery-ul" style="list-style:none;">
+
+          <li>
+            <a href="big/image.jpg" class="swipebox" title="My Caption">
+                <img src="<?=base_url()?>/images/8.jpg" alt="image" class="gallery-img left">
+            </a>
+        </li>
+        <li>
+           <a href="big/image.jpg" class="swipebox" title="My Caption">
+              <img src="<?=base_url()?>/images/8.jpg" alt="image" class="gallery-img right">
+          </a>
+          </li>
+          <li>
+            <a href="big/image.jpg" class="swipebox" title="My Caption">
+                <img src="<?=base_url()?>/images/8.jpg" alt="image">
+            </a>
+        </li>
+        <li>
+           <a href="big/image.jpg" class="swipebox" title="My Caption">
+              <img src="<?=base_url()?>/images/8.jpg" alt="image" >
+            </a>
+        </li>
+    </ul>
+
   </div>
 </div>
 
