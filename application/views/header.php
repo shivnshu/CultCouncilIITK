@@ -32,6 +32,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<!--For Gallery -->
 	<link rel="stylesheet" href="<?=base_url()?>/css/swipebox.min.css">
 
+	<!-- Google Font -->
+	<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+
 </head>
 <body>
 
