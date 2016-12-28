@@ -282,34 +282,42 @@ a{
     vertical-align: bottom;
 }
 
+/*Team*/
+
+#core-team {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+#core-team li{
+    display: inline;
+    width: 200px;
+    height: 220px;
+}
+
 .our-team{
     position: relative;
     text-align: center;
     overflow: hidden;
+    margin: 0;
     box-shadow: 0 0 5px #808080;
 }
-.our-team img{
-    width: 100%;
-    height: auto;
-    transition: all 0.50s linear 0s;
-}
-.our-team:hover img{
-    transform: scale(1.2);
-}
-.our-team .team-content{
-    width: 100%;
-    height: 100%;
+
+
+.team-content{
+    width: 200px;
+    height: 220px;
     position: absolute;
     top: 0;
     left: 0;
     padding: 40px 20px;
     background: rgba(152, 197, 112, 0.95);
-    opacity: 0;
-    transition: all 0.5s ease-in-out;
+    /*opacity: 0;*/
 }
-.our-team:hover .team-content{
+/*.our-team:hover .team-content{
     opacity: 1;
-}
+}*/
 .our-team .team-prof{
     margin: 20px 0;
     position: relative;
