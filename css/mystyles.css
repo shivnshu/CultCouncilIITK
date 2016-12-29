@@ -50,7 +50,7 @@ ul, ol {margin: 0; padding: 0;}
 .mobile-nav ul{
     text-align: center;
     list-style: none;
-    padding-top: 50%;
+    padding-top: 30%;
 }
 
 .mobile-nav ul li{
@@ -70,7 +70,7 @@ ul, ol {margin: 0; padding: 0;}
 .mobile-nav-clubs ul{
     text-align: center;
     list-style: none;
-    padding-top: 50%;
+    padding-top: 30%;
 }
 
 .mobile-nav-clubs ul li{
@@ -99,7 +99,7 @@ ul, ol {margin: 0; padding: 0;}
     }
 
     .mobile-nav{
-        display: block !important;
+        /*display: block !important;*/
     }
 
     .mobile-nav-clubs{

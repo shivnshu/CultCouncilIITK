@@ -9,7 +9,7 @@
 	<div class="mobile-nav" style="display: none;">
 		<ul>
 			<li>Home</li>
-			<li>Clubs</li>
+			<li id="mobile-nav-clubs-btn">Clubs</li>
 			<li>Galaxy</li>
 			<li>Schedule</li>
 			<li>Team</li>
