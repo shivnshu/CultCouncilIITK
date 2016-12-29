@@ -23,11 +23,11 @@ $( document ).ready(function() {
     });
 
     $('.mobile-nav-toggle').click(function() {
-      $('.mobile-nav').css('display', 'block !important').addClass("animated fadeInRight");
+      $('.mobile-nav').show(500);
     });
 
     $('#mobile-nav-clubs-btn').click(function() {
-      $('.mobile-nav-clubs').css('display', 'block !important').addClass("animated fadeInRight");
+      $('.mobile-nav-clubs').show(500);
     });
 
     // $('.mobile-nav').dialog({modal: true});
@@ -39,7 +39,7 @@ $( document ).ready(function() {
         if (!container.is(e.target) // if the target of the click isn't the container...
             && container.has(e.target).length === 0) // ... nor a descendant of the container
         {
-            container.hide();
+            container.hide(500);
         }
     });
 
@@ -50,7 +50,7 @@ $( document ).ready(function() {
         if (!container.is(e.target) // if the target of the click isn't the container...
             && container.has(e.target).length === 0) // ... nor a descendant of the container
         {
-            container.hide();
+            container.hide(500);
         }
     });
 
