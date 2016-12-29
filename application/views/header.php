@@ -67,6 +67,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 	<div class="global-bar">
 			<div class="topBar">
+				<div class="mobile-nav-toggle" style="display:none;">
+					<a href="#">Menu</a>
+				</div>
 			</div>
 	</div>
 

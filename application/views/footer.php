@@ -1,10 +1,34 @@
 
-			<div class="social rightBar">
+	<div class="social rightBar">
         <a class="fb" target="_blank" href="https://www.facebook.com/CulturalCouncilIitKanpur/"><i class="fa fa-facebook"></i></a>
         <a class="gp" target="_blank" href=""><i class="fa fa-google-plus"></i></a>
         <a class="inst" target="_blank" href=""><i class="fa fa-instagram"></i></a>
         <a class="yt" target="_blank" href="https://www.youtube.com/channel/UCHTssedqbiRqucZJOj8wFBQ"><i class="fa fa-youtube-play"></i></a>
     </div>
+
+	<div class="mobile-nav" style="display: none;">
+		<ul>
+			<li>Home</li>
+			<li>Clubs</li>
+			<li>Galaxy</li>
+			<li>Schedule</li>
+			<li>Team</li>
+			<li>Gallery</li>
+		</ul>
+
+	</div>
+
+	<div class="mobile-nav-clubs" style="display: none;">
+		<ul>
+			<li>Music</li>
+			<li>Dance</li>
+			<li>Dramatics</li>
+			<li>ELS</li>
+			<li>Fine Art Club</li>
+			<li>Others</li>
+		</ul>
+
+	</div>
 
 		</div><!-- END of Row -->
 	</div><!-- END of Container -->
@@ -41,6 +65,10 @@
 
 	    } )( jQuery );
 	</script>
-	
+
+	<script>
+	  var nav = responsiveNav(".nav-collapse-asdf");
+	</script>
+
 </body>
 </html>
