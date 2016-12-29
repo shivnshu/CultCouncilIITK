@@ -23,11 +23,11 @@ $( document ).ready(function() {
     });
 
     $('.mobile-nav-toggle').click(function() {
-      $('.mobile-nav').css('display', 'block !important');
+      $('.mobile-nav').css('display', 'block !important').addClass("animated fadeInRight");
     });
 
     $('#mobile-nav-clubs-btn').click(function() {
-      $('.mobile-nav-clubs').css('display', 'block !important');
+      $('.mobile-nav-clubs').css('display', 'block !important').addClass("animated fadeInRight");
     });
 
     // $('.mobile-nav').dialog({modal: true});
