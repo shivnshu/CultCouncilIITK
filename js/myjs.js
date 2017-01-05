@@ -20,7 +20,21 @@ $( document ).ready(function() {
     	        $(this).removeClass("active").find('.sub-menu').fadeOut("fast");
     	    });
     	});
+
+        $(function () {
+            // Dealing with 1080 screens
+            if($('body').height() > 800){
+                $('.logo').css("width", "250px");
+                $('.navigation li a').css("font-size", "24px");
+            }
+            else{
+                $('.logo').css("width", "150px");
+            }
+        })
+
     });
+
+
 
     $('.navigation li.has-sub').click(function () {
         $(this).addClass("active").find('.sub-menu').fadeIn("fast");
@@ -73,6 +87,7 @@ $( document ).ready(function() {
 });
 
 $( document ).ready(function() {
+
 	window.onresize = function() {
 		// Adjust heigt of Left Sidebar
     $('.scrollBar').height($(window).height()*.72);
@@ -83,4 +98,9 @@ $( document ).ready(function() {
     $('.sub-menu').css('top',$('.council-nav').height());
     ///$('.council-nav').height(($(window).height() - 400)/6);
 	};
+
+
+
+
+
 });
