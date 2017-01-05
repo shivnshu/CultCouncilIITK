@@ -55,7 +55,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<!-- Wrapper for slides -->
 		<div class="carousel-inner">
 			<div class="item active">
-				<img src="<?=base_url()?>/images/home.png" alt="" />
+				<img src="<?=base_url()?>/images/back-1.jpg" alt="" />
 				<!-- <div class="carousel-caption">
 					<h1 id="animateit" style="color:red;">hjj</h1>
 					<p>iywgdhvbjvfyrdyfgjbh</p>
@@ -78,7 +78,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			<!-- Left Sidebar START -->
 			<div class="col-xs-3 leftBar alpha omega" style=" ">
 				<!--<h2 class="logo" style="background: url('<?=base_url()?>/images/favicon.ico') no-repeat;"><a href="">	</a></h2> -->
-				<img src="<?=base_url()?>/images/favicon.ico" class="logo img-responsive" id="cultlogo"/>
+				<img src="<?=base_url()?>/images/favicon-mod.png" class="logo img-responsive" id="cultlogo"/ style="width: 150px;">
 
 				<ul class="navigation">
 					<li id="council_home" class="parent council-nav"><a href="<?php echo site_url('') ?>">Home</a></li>

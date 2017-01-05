@@ -14,7 +14,7 @@
 
         <div class="clubs-trans-div" style="width:100%;opacity:1;margin-bottom: 20px;">
 
-        <ul class="nav nav-tabs" style="margin-bottom: 20px;background-color:green;">
+        <ul class="nav nav-tabs" style="margin-bottom: 20px; color: white !important;">
           <li class="active" ><a data-toggle="tab" href="#about-els" >About</a></li>
           <li><a data-toggle="tab" href="#events-els" >Events</a></li>
           <li><a data-toggle="tab" href="#joinus-els">Join Us</a></li>
@@ -23,7 +23,7 @@
 <div class="tab-content" style="width:100%; text-align:left;">
 
   <article id="about-els" class="tab-pane fade in active">
-            <p><i>“There is no surer foundation for a beautiful friendship than a mutual taste in literature.” ― P.G. Wodehouse</i>i<br><br></p>
+            <p style="color: #e8ad05;"><i>“There is no surer foundation for a beautiful friendship than a mutual taste in literature.” ― P.G. Wodehouse</i>i<br><br></p>
               <p>Keeping the spirit of the above quote in mind, the <a target="_blank" href="https://elsiitk.wordpress.com/">English Literary Society (ELS)</a> is a student run club under the Cultural Council, IITK, that seeks to promote literary activities in the campus. We conduct a variety of events, both literary (like various forms of Creative Writing, Word Games and Poetry Slam), and fun (like Just-A-Minute, Dumb Charades and some other experiments) frequently. Indian authors have been invited for judging some of our events and conducting workshops and informal sessions. </p>
               <p><b>Email:</b> listoc.iitk@gmail.com</p>
   </article>
