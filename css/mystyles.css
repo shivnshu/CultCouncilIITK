@@ -257,6 +257,7 @@ footer {font-size: 12px; color: #6C6968; text-transform: uppercase; background-c
     color: #e8ad05;
     background-color:rgba(0, 0, 0, .6);
     padding:10px;
+    position: relative;
 }
 
 /*IMPROVE THIS*/
@@ -267,7 +268,8 @@ footer {font-size: 12px; color: #6C6968; text-transform: uppercase; background-c
     border-bottom: 1px #fff solid;
     display: inline-block;
     position: absolute;
-    margin: 24px 0 0 -200px;
+    margin-left: -22%;
+    margin-top: 20px;
 }
 
 .scroll-title::after{
@@ -276,7 +278,7 @@ footer {font-size: 12px; color: #6C6968; text-transform: uppercase; background-c
     border-bottom: 1px #fff solid;
     display: inline-block;
     position: absolute;
-    margin-left: 24px;
+    margin-left: 2%;
     margin-top: 20px;
 }
 
@@ -285,10 +287,11 @@ footer {font-size: 12px; color: #6C6968; text-transform: uppercase; background-c
   height: 400px;
   overflow-y: scroll;
   /*opacity: 0.8;*/
-  background-color:rgba(0, 0, 0, .4);
-
+  background-color:rgba(0, 0, 0, .57);
+  font-size: 18px;
   color: #b7b7b7;
 }
+
 
 .scrollBar a{
     color: #e8ad05;
@@ -431,7 +434,7 @@ a{
     top: 0;
     left: 0;
     padding: 40px 20px;
-    background: rgba(152, 197, 112, 0.95);
+    background: #301027;
     /*opacity: 0;*/
 }
 /*.our-team:hover .team-content{
@@ -441,16 +444,16 @@ a{
     margin: 20px 0;
     position: relative;
     top: 13%;
-    font-size: 25px;
-    font-weight: bold;
-    color: rgba(0, 0, 0, 0.3);
+    font-size: 20px;
+    /*font-weight: bold;*/
+    color: #e8ad05;
     letter-spacing: 1px;
     text-transform: capitalize;
 }
 .our-team .team-prof small{
     display: block;
     font-size: 13px;
-    color: #fff;
+    color: #b7b7b7;
     margin-top: 10px;
     text-transform: uppercase;
 }
