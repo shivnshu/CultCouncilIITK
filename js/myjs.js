@@ -22,6 +22,10 @@ $( document ).ready(function() {
     	});
     });
 
+    $('.navigation li.has-sub').click(function () {
+        $(this).addClass("active").find('.sub-menu').fadeIn("fast");
+    });
+
     $('.mobile-nav-toggle').click(function() {
       $('.mobile-nav').show(500);
     });
