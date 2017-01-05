@@ -55,7 +55,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 		<!-- Wrapper for slides -->
 		<div class="carousel-inner">
 			<div class="item active">
-				<img src="<?=base_url()?>/images/back-1.jpg" alt="" />
+				<img src="<?=base_url()?>/images/home.png" alt="" />
 				<!-- <div class="carousel-caption">
 					<h1 id="animateit" style="color:red;">hjj</h1>
 					<p>iywgdhvbjvfyrdyfgjbh</p>

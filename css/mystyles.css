@@ -489,6 +489,18 @@ a{
     color: #333;
     text-decoration: none;
 }
+
+/*Schedule*/
+
+.schedule thead  tr{
+    color: #e8ad05;
+}
+
+.schedule thead  tr th{
+    text-align: center;
+}
+
+
 @media only screen and (max-width: 990px){
     .our-team{ margin-bottom: 20px; }
 }

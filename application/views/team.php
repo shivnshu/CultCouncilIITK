@@ -27,7 +27,7 @@
                          <ul class="social-link">
                              <li><a href="#" class="fa fa-facebook"></a></li>
                              <li><a href="#" class="fa fa-google"></a></li>
-                             <li><a href="#" class="fa fa-twitter"></a></li>
+                             <li><a href="#" class="fa fa-linkedin"></a></li>
                          </ul>
                      </div>
                  </div>
@@ -43,7 +43,7 @@
                          <ul class="social-link">
                              <li><a href="#" class="fa fa-facebook"></a></li>
                              <li><a href="#" class="fa fa-google"></a></li>
-                             <li><a href="#" class="fa fa-twitter"></a></li>
+                             <li><a href="#" class="fa fa-linkedin"></a></li>
                          </ul>
                      </div>
                  </div>
@@ -59,7 +59,7 @@
                          <ul class="social-link">
                              <li><a href="#" class="fa fa-facebook"></a></li>
                              <li><a href="#" class="fa fa-google"></a></li>
-                             <li><a href="#" class="fa fa-twitter"></a></li>
+                             <li><a href="#" class="fa fa-linkedin"></a></li>
                          </ul>
                      </div>
                  </div>

@@ -13,7 +13,7 @@
   <div class="scrollBar scroll-pane  col-xs-6" id = "scrollbox">
 
 
-      <table class="table">
+      <table class="table schedule">
     <thead>
       <tr>
         <th>Firstname</th>
