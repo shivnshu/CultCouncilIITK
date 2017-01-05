@@ -7,8 +7,8 @@
 </script>
 
 <div style= "margin-left:32%" class="page-title  col-xs-6 col-xs-offset-3">
-    
-  <h1 class="scroll-title">Music Club</h1>
+
+  <h1 class="scroll-title"><p>Music Club</p></h1>
 
   <div class="scrollBar scroll-pane  col-xs-8" id = "scrollbox">
 
@@ -25,15 +25,15 @@
 
             <article id="about-music" class="tab-pane fade in active">
 
-               
+
             </article>
 
             <article  id="events-music" class="tab-pane fade">
-                
+
             </article>
 
             <article id="joinus-music" class="tab-pane fade">
-                
+
             </article>
         </section>
   </div>

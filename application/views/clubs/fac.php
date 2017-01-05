@@ -8,7 +8,7 @@
 
 <div style= "margin-left:32%" class="page-title  col-xs-6 col-xs-offset-3">
 
-  <h1 class="scroll-title">Fine Arts Club</h1>
+  <h1 class="scroll-title"><p>Fine Arts Club</p></h1>
 
   <div class="scrollBar scroll-pane  col-xs-8" id = "scrollbox">
 

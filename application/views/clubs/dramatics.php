@@ -8,7 +8,7 @@
 
 <div style= "margin-left:32%" class="page-title  col-xs-6 col-xs-offset-3">
 
-  <h1 class="scroll-title">Dramatics Club</h1>
+  <h1 class="scroll-title"><p>Dramatics Club</p></h1>
 
   <div class="scrollBar scroll-pane  col-xs-8" id = "scrollbox">
 
@@ -26,7 +26,7 @@
                   <p>Ever dreamed about being somebody else? What will be your actions when you become them? As Mr. Noel Coward says <i>‘Acting is not a state of being … but a state of appearing to be.’</i> i.e. acting is the closest way to live a person’s life. </p>
                   <p>
                   Welcome to Dramatics Club, IIT Kanpur which provides you the opportunity to satisfy not only your ‘acting ka keeda’ but many other keedas of scriptwriting, direction and backstage along with thrill of ovations as your production reaches its stage.</p>
-               
+
             </article>
 
             <article  id="events-dramatics" class="tab-pane fade">
@@ -52,11 +52,11 @@
                     <b>(f) Summer Workshop:</b>
                     A whole month of learning of elements of stage play under a theatre professional at the end of which a professionally directed play is staged for students and professors alike.
                  </p>
-                
+
             </article>
 
             <article id="joinus-dramatics" class="tab-pane fade">
-                
+
             </article>
         </section>
   </div>

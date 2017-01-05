@@ -260,26 +260,34 @@ footer {font-size: 12px; color: #6C6968; text-transform: uppercase; background-c
     position: relative;
 }
 
+.scroll-title p{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 /*IMPROVE THIS*/
 
 .scroll-title::before{
     content: " ";
+    margin-left: 6%;
     width: 20%;
     border-bottom: 1px #fff solid;
     display: inline-block;
     position: absolute;
-    margin-left: -22%;
-    margin-top: 20px;
+    left: 0;
+    top: 50%;
 }
 
 .scroll-title::after{
     content: " ";
+    margin-right: 6%;
     width: 20%;
     border-bottom: 1px #fff solid;
     display: inline-block;
     position: absolute;
-    margin-left: 2%;
-    margin-top: 20px;
+    right: 0;
+    top: 50%;
 }
 
 .scrollBar{
