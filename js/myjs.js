@@ -24,11 +24,11 @@ $( document ).ready(function() {
         $(function () {
             // Dealing with 1080 screens
             if($('body').height() > 800){
-                $('.logo').css("width", "150px");
+                // $('.logo').css("width", "150px");
                 $('.navigation li a').css("font-size", "20px");
             }
             else{
-                $('.logo').css("width", "150px");
+                // $('.logo').css("width", "150px");
             }
         })
 

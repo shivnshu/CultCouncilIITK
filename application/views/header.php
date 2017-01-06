@@ -79,7 +79,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			<div class="col-xs-3 leftBar alpha omega" style=" ">
 				<!--<h2 class="logo" style="background: url('<?=base_url()?>/images/favicon.ico') no-repeat;"><a href="">	</a></h2> -->
 				<a href="<?=base_url()?>index.php">
-					<img src="<?=base_url()?>/images/favicon-mod.png" class="logo img-responsive" id="cultlogo"/ style="">
+					<img src="<?=base_url()?>/images/favicon-mod.png" class="logo img-responsive" id="cultlogo"/ style="width: 150px;">
 				</a>
 
 				<ul class="navigation">
