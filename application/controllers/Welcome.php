@@ -57,4 +57,8 @@ class Welcome extends CI_Controller {
     {
         $this->load->view('clubs/fac');
     }
+    public function quiz()
+    {
+        $this->load->view('clubs/quiz');
+    }
 }

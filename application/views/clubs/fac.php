@@ -15,9 +15,9 @@
         <div class="clubs-trans-div" style="width:100%;opacity:1;margin-bottom: 20px;">
 
         <ul class="nav nav-tabs" style="margin-bottom: 20px;">
-  <li class="active"><a data-toggle="tab" href="#about-fac">About</a></li>
-  <li><a data-toggle="tab" href="#events-fac">Events</a></li>
-  <li><a data-toggle="tab" href="#joinus-fac">Join Us</a></li>
+  <li class="active"><a data-toggle="tab" href="#about-fac">ABOUT</a></li>
+  <li><a data-toggle="tab" href="#events-fac">EVENTS</a></li>
+  <li><a data-toggle="tab" href="#joinus-fac">JOIN US</a></li>
 </ul>
 
 <div class="tab-content" style="width:100%; text-align:left;">
@@ -27,21 +27,19 @@
                 </p>
         </article>
         <article id="events-fac" class="tab-pane fade">
-                  <h3>
-                    The club conducts a range of activities throughout the year
-                  </h3>
                   <p>
-                    1. Summer projects: oil painting,
-             pencil sketches,
-             clay sculpture<br>
-2. Orientation: sand art performance<br>
-3. Workshops: clay modelling workshop,
-      wall painting workshop<br>
-4. Freshers’ night: wall painting (2 OAT walls), sand art and speed art performance, exhibition<br>
-5. Antaragni: art exhibition, doodling on club wall, wall painting in New Sac, ( 3 inside and 2 outside the club room), fine arts competitions<br>
-6. Rangoli competition<br>
-7. Mood I, fine arts competitions<br>
-8. Cultural fest<br>
+                    <h3>Summer projects
+                    </h3> Oil Painting,
+             Pencil Sketches,
+             Clay Sculpture<br>
+<h3>Orientation</h3> Sand art performance<br>
+<h3>Workshops</h3> Clay modelling workshop,
+      Wall painting workshop<br>
+<h3>Freshers’ night</h3> Wall painting (2 OAT walls), Sand art and Speed art performance, Exhibition<br>
+<h3>Antaragni</h3> Art Exhibition, Doodling on club wall, Wall painting in New Sac, ( 3 inside and 2 outside the club room), Fine Arts Competitions<br>
+<h3>Rangoli competition</h3>
+<h3>Mood I Fine arts competitions</h3>
+<h3>Cultural fest</h3>
                   </p>
         </article>
         <article id="joinus-fac" class="tab-pane fade">
