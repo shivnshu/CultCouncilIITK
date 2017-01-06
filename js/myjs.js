@@ -96,7 +96,7 @@ $( document ).ready(function() {
 
 	window.onresize = function() {
 		// Adjust heigt of Left Sidebar
-    $('.scrollBar').height($(window).height()*.72);
+    $('.scrollBar').height($(window).height()*.72 + " !important");
     $('.topBar').width( $(window).width() );
     $('.leftBar').height( $(window).height() - $('.topBar').height() - $('.bottomBar').height() );
     $('.bottomBar').width( $(window).width()  );
