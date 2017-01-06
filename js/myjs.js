@@ -9,7 +9,9 @@ $( document ).ready(function() {
       $('.leftBar').height( $(window).height() - 50 );
       $('.sub-menu').css('left',($('.leftBar').width()));
       $('.sub-menu').css('top',$('.council-nav').height());
-      $('.scrollBar').height($(window).height()*.72);
+    //   $('.scrollBar').height($(window).height()*.67);
+    $('.scrollBar').height($(window).height() - $(window).height()*.08 - $('.scroll-title').height() - $('.nav-tabs').height() - $('.topBar').height() - $('.bottomBar').height() - $('.footer').height() - $('.topBar').height() );
+
 
 
 
@@ -96,7 +98,7 @@ $( document ).ready(function() {
 
 	window.onresize = function() {
 		// Adjust heigt of Left Sidebar
-    $('.scrollBar').height($(window).height()*.72 + " !important");
+    $('.scrollBar').height($(window).height() - $(window).height()*.10 - $('.scroll-title').height() - $('.nav-tabs').height() - $('.topBar').height() - $('.bottomBar').height() - $('.footer').height() - $('.topBar').height() );
     $('.topBar').width( $(window).width() );
     $('.leftBar').height( $(window).height() - $('.topBar').height() - $('.bottomBar').height() );
     $('.bottomBar').width( $(window).width()  );
