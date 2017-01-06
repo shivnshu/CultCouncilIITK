@@ -1,5 +1,8 @@
 $( document ).ready(function() {
     $(window).bind("load", function() {
+
+        // $('.carousel-inner .item').css("background", "url(../images/home.png) !important");
+
     	// Adjust heigt of Left Sidebar
       $('.topBar').width( $(window).width() +12);
       $('.bottomBar').width( $(window).width() );
@@ -7,6 +10,8 @@ $( document ).ready(function() {
       $('.sub-menu').css('left',($('.leftBar').width()));
       $('.sub-menu').css('top',$('.council-nav').height());
       $('.scrollBar').height($(window).height()*.72);
+
+
 
 
       $('#animateit').addClass('animated fadeInLeft'); //example animate.css
@@ -33,6 +38,7 @@ $( document ).ready(function() {
         })
 
     });
+
 
 
 
