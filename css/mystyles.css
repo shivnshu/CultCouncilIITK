@@ -94,6 +94,12 @@ ul, ol {margin: 0; padding: 0;}
     .leftBar{
         display: none;
     }
+
+.gallery-box{
+  clear: both !important;
+  width: 100% !important;
+}
+
     .page-title{
         margin-left: 10% !important;
         width: 85% !important;
@@ -457,6 +463,11 @@ a{
     box-shadow: 0 0 5px #808080;
 }
 
+@media screen and (max-width: 1040px) {
+    /*.our-team {
+      width: 400px !important;
+    }*/
+}
 
 .team-content{
     width: 200px;
