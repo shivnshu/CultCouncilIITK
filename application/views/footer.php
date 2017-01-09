@@ -8,24 +8,24 @@
 
 	<div class="mobile-nav" style="display: none;">
 		<ul>
-			<li><a>Home</a></li>
+			<li><a href="<?php echo site_url('') ?>">Home</a></li>
 			<li id="mobile-nav-clubs-btn"><a>Clubs</a></li>
-			<li><a>Galaxy</a></li>
-			<li><a>Schedule</a></li>
-			<li><a>Team</a></li>
-			<li><a>Gallery</a></li>
+			<li><a target="_blank" href="http://students.iitk.ac.in/cultcouncil/galaxy/">Galaxy</a></li>
+			<li><a href="<?php echo site_url('welcome/schedule') ?>">Schedule</a></li>
+			<li><a href="<?php echo site_url('welcome/team') ?>">Team</a></li>
+			<li><a href="<?php echo site_url('welcome/Gallery') ?>">Gallery</a></li>
 		</ul>
 
 	</div>
 
 	<div class="mobile-nav-clubs" style="display: none;">
 		<ul>
-			<li><a>Music</a></li>
-			<li><a>Dance</a></li>
-			<li><a>Dramatics</a></li>
-			<li><a>ELS</a></li>
-			<li><a>Fine Art Club</a></li>
-			<li><a>Others</a></li>
+			<li><a href="<?php echo site_url('welcome/music') ?>">Music</a></li>
+			<li><a href="<?php echo site_url('welcome/dance') ?>">Dance</a></li>
+			<li><a href="<?php echo site_url('welcome/dramatics') ?>">Dramatics</a></li>
+			<li><a href="<?php echo site_url('welcome/els') ?>">ELS</a></li>
+			<li><a href="<?php echo site_url('welcome/fac') ?>">Fine Art Club</a></li>
+			<li><a href="<?php echo site_url('welcome/quiz') ?>">Quiz Club</a></li>
 		</ul>
 
 	</div>
