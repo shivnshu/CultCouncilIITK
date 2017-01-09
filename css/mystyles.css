@@ -51,13 +51,24 @@ ul, ol {margin: 0; padding: 0;}
     text-align: center;
     list-style: none;
     padding-top: 30%;
+    display: flex;
+    justify-content:center;
+    flex-direction: column;
 }
 
 .mobile-nav ul li{
     color: white;
-    padding: 30px;
+    padding: 15px;
+    /*padding: 30px;*/
 }
 
+.mobile-nav ul a{
+    color: white;
+}
+
+.mobile-nav-clubs ul a{
+    color: white;
+}
 
 .mobile-nav-clubs{
     background-color: rgb(196, 26, 30);
@@ -76,7 +87,7 @@ ul, ol {margin: 0; padding: 0;}
 
 .mobile-nav-clubs ul li{
     color: white;
-    padding: 30px;
+    padding: 15px;
 }
 
 @media screen and (max-width: 765px) {

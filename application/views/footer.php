@@ -8,24 +8,24 @@
 
 	<div class="mobile-nav" style="display: none;">
 		<ul>
-			<li>Home</li>
-			<li id="mobile-nav-clubs-btn">Clubs</li>
-			<li>Galaxy</li>
-			<li>Schedule</li>
-			<li>Team</li>
-			<li>Gallery</li>
+			<li><a>Home</a></li>
+			<li id="mobile-nav-clubs-btn"><a>Clubs</a></li>
+			<li><a>Galaxy</a></li>
+			<li><a>Schedule</a></li>
+			<li><a>Team</a></li>
+			<li><a>Gallery</a></li>
 		</ul>
 
 	</div>
 
 	<div class="mobile-nav-clubs" style="display: none;">
 		<ul>
-			<li>Music</li>
-			<li>Dance</li>
-			<li>Dramatics</li>
-			<li>ELS</li>
-			<li>Fine Art Club</li>
-			<li>Others</li>
+			<li><a>Music</a></li>
+			<li><a>Dance</a></li>
+			<li><a>Dramatics</a></li>
+			<li><a>ELS</a></li>
+			<li><a>Fine Art Club</a></li>
+			<li><a>Others</a></li>
 		</ul>
 
 	</div>
