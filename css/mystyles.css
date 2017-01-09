@@ -107,6 +107,10 @@ ul, ol {margin: 0; padding: 0;}
         height: 80px !important;
     }
 
+.scroll-title{
+  font-size: 30px;
+}
+
     .topBar .mobile-nav-toggle {
         display: block !important;
     }
