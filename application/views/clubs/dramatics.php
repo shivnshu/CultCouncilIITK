@@ -8,59 +8,50 @@
 
 <div style= "margin-left:32%" class="page-title  col-xs-6 col-xs-offset-3">
 
-  <h1 class="scroll-title"><p>Dramatics Club</p></h1>
+  <h1 class="scroll-title"><p>Dramatics</p></h1>
 
-  <div class="scrollBar scroll-pane  col-xs-8" id = "scrollbox">
+  <div class="">
 
         <div class="clubs-trans-div" style="width:100%;opacity:1;margin-bottom: 20px;">
 
-        <ul class="nav nav-tabs" style="margin-bottom: 20px;">
-  <li class="active"><a data-toggle="tab" href="#about-dramatics">ABOUT</a></li>
-  <li><a data-toggle="tab" href="#events-dramatics">EVENTS</a></li>
-  <li><a data-toggle="tab" href="#joinus-dramatics">JOIN US</a></li>
-</ul>
+        <ul class="nav nav-tabs" style="background-color: rgba(0, 0, 0, .6);">
+          <li class="active" ><a data-toggle="tab" href="#about-els" >ABOUT</a></li>
+          <li><a data-toggle="tab" href="#events-els" >EVENTS</a></li>
+          <li><a data-toggle="tab" href="#joinus-els">JOIN US</a></li>
+        </ul>
 
-        <div class="tab-content" style="width:100%; text-align:left;">
+<div class="tab-content scrollBar scroll-pane"  id = "scrollbox" style="width:100%; text-align:left;">
 
-            <article id="about-dramatics" class="tab-pane fade in active">
-                  <p>Ever dreamed about being somebody else? What will be your actions when you become them? As Mr. Noel Coward says <i>‘Acting is not a state of being … but a state of appearing to be.’</i> i.e. acting is the closest way to live a person’s life. </p>
-                  <p>
-                  Welcome to Dramatics Club, IIT Kanpur which provides you the opportunity to satisfy not only your ‘acting ka keeda’ but many other keedas of scriptwriting, direction and backstage along with thrill of ovations as your production reaches its stage.</p>
+  <article id="about-els" class="tab-pane fade in active">
+            <p><i>“There is no surer foundation for a beautiful friendship than a mutual taste in literature.” ― P.G. Wodehousei</i><br><br></p>
+              <p>Keeping the spirit of the above quote in mind, the <a target="_blank" href="https://elsiitk.wordpress.com/">English Literary Society (ELS)</a> is a student run club under the Cultural Council, IITK, that seeks to promote literary activities in the campus. We conduct a variety of events, both literary (like various forms of Creative Writing, Word Games and Poetry Slam), and fun (like Just-A-Minute, Dumb Charades and some other experiments) frequently. Indian authors have been invited for judging some of our events and conducting workshops and informal sessions. </p>
+              <p><b>Email:</b> listoc.iitk@gmail.com</p>
+  </article>
 
-            </article>
+  <article id="events-els" class="tab-pane fade">
+              <h3>Some of the major events conducted by the ELS include:</h3>
+                <p><b>Treasure Hunt:</b> It is an annual, all night event, usually held in August, wherein the freshers form teams of up to six people and participate in a fast-paced, nerve-racking hunt, searching for clues one after the other in the whole campus. The event is conducted in association with the Quiz Club and the Hindi Sahitya Sabha, and acts as a campus tour for the incoming batch. Many students from the senior batches also participate as clue holders at the various locations, and make the teams do some fun activities before handing them the clues. This event sees a participation from around 600 freshmen every year.</p>
+               <p><b>Freshers' Frolica:</b> It is a series of four competitions held around August - September: JAM, Dumb Charades, Creative Writing and Word Games. These are supposed to introduce the freshers to the kind of events that the ELS conducts, and also to win some prizes in the process.</p>
+                <p><b>Run up to Galaxy / Galaxy Literary Events:</b> Galaxy is IITK's inter-hall cultural competition, which is fiercely fought in the month of February / March every year. ELS conducts its traditional events, as well as one or two new events.</p>
+                <p><b>Sweet Summer Sweat / Winter Winds:</b> Prompt-based / format-based writing events are held in the vacations, as these are the times when the students are free from the hustle-bustle of the campus, and can let their minds run free and come up with creations in the form of prose / poetry / comic strips / drama or any other literary form deemed convenient.</p>
+                 <p><b>LitFest:</b> It is conducted annually as part of CultFest, the internal cultural fest of the campus. New ideas are usually tested here, and Poetry slam came out of one such experimentation.</p>
+              <p><b>Run up to Antaragni:</b> As the name suggests, this is a pre-Antaragni event, held to warm up the participants so that they can exhibit their literary skills in the actual events and win some prizes.</p>
+              <p><b>Standalone Events:</b> Poetry slams are held twice a year, where some of the poets of the campus come out of their rooms and perform a fine piece of original poetry to an appreciative audience. The Institute JAM League has also been started as one such initiative, where the aim is to take JAM to a whole new level of competition.</p>
 
-            <article  id="events-dramatics" class="tab-pane fade">
-                 <p>
-                         <h3>Orientation Nukkad</h3>
-                         A Street Play by club seniors for the incoming batch which gives them their first glance of a performance from the club.
-                    </p>
-                <p>
-                         <h3> Fresher’s Night</h3>
-                            ‘What happens in Dramatics Club?’ is the first question in the mind of a fresher. Well here is the answer with the first production of club performed solely by students of incoming batch.</p>
-                <p>
-                        <h3> Dram Eve-1</h3>
+  </article>
+  <article id="joinus-els" class="tab-pane fade">
+            <p><b>Meander:</b>  Meander is the annual publication of ELS. The best entries from the summer creative writing competition, as well as other entries, get featured in a four page publication which is circulated in the campus.</p>
 
-                                            The gems of past performances of the club are unearthed for the new batch as second and first years come together to perform some of its earlier street plays.
-                </p>
-                <p>
-                    <h3>Antaragni</h3>
-                        Stage Play. Street Play. Mime. The Cultural fest of IIT Kanpur brings forth an exciting chance for competing against incoming colleges.
-                </p>
-                <p>
-                    <h3> Dram Eve-2</h3>
-                    Flagship event of the club with all its members putting a dazzling array of plays, nukkad and mime performances for crowd of IIT Kanpur.</p>
-                    <p>
-                    <h3>Summer Workshop (June)</h3>
-                    A whole month of learning of elements of stage play under a theatre professional at the end of which a professionally directed play is staged for students and professors alike.
-                 </p>
+            <p><b>Blog:</b> The ELS blog (<a target="_blank" href="https://elsiitk.wordpress.com/about/">https://elsiitk.wordpress.com/about/</a>) is the place where the campus residents can showcase their creative works, be it prose, poetry, drama or even a comic strip. Works of enthusiastic poets and authors from the campus are regularly published on the blog.</p>
 
-            </article>
+            <p><b>Hydra Parables:</b> The Hydra Parables was a work started in 2015, wherein different authors imagine the possibilities stemming from a given set of characters and a setting, and iterate over different settings. <a target="_blank" href="https://elsiitk.wordpress.com/hydra-parables/">https://elsiitk.wordpress.com/hydra-parables/</a></p>
 
-            <article id="joinus-dramatics" class="tab-pane fade">
+  </article>
 
-            </article>
-        </section>
+</div>
+
   </div>
+</div>
 </div>
 
 <?php include(dirname(__FILE__)."/../footer.php");?>

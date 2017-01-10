@@ -5,64 +5,53 @@
     verticalHandleClass: 'handle3'
 });
 </script>
+
 <div style= "margin-left:32%" class="page-title  col-xs-6 col-xs-offset-3">
 
-  <h1 class="scroll-title"><p>Dance Club</p></h1>
+  <h1 class="scroll-title"><p>Dance</p></h1>
 
-  <div class="scrollBar scroll-pane  col-xs-8" id = "scrollbox">
+  <div class="">
 
         <div class="clubs-trans-div" style="width:100%;opacity:1;margin-bottom: 20px;">
-          <ul class="nav nav-tabs" style="margin-bottom: 20px;">
-                <li class="active"><a href="#about-dance" data-toggle="tab">ABOUT</a></li>
-                <li><a href="#events-dance" data-toggle="tab">EVENTS</a></li>
-                <li><a href="#joinus-dance" data-toggle="tab">JOIN US</a></li>
-            </ul>
-        <!-- </div> -->
 
-        <!-- <div class="clubs-content tab-content"> -->
-        <section class="tab-content" style="width:100%; text-align:left;">
+        <ul class="nav nav-tabs" style="background-color: rgba(0, 0, 0, .6);">
+          <li class="active" ><a data-toggle="tab" href="#about-els" >ABOUT</a></li>
+          <li><a data-toggle="tab" href="#events-els" >EVENTS</a></li>
+          <li><a data-toggle="tab" href="#joinus-els">JOIN US</a></li>
+        </ul>
 
-            <article id="about-dance" class="tab-pane fade in active">
-            <p>
-                The Dance Club of IIT Kanpur calls itself K-OS, abbr. for 'Krazy Over Sync'. K-OS is one of the most active and hardworking club of IIT Kanpur. It's a very big club having more than 100 members in it. It performs versatile dance forms like hip-hop, bollywood, salsa, folk dance, classical, freestyle, contemporary and many more. K-OS also conduct workshops and dance events, which are spread throughout the year. Working on the principle of learn, teach and perform many beginners become an important part of dance club. The club is managed by the coordinators who are third year students.</p>
-<p>KOS focuses on group dance, although it also encourages individuals to become exceptional solo dancers. Because of participating and winning in a lot of competitions in and outside IIT Kanpur, K-OS dance club is considered among the most successful clubs in IIT Kanpur.
-            </p>
+<div class="tab-content scrollBar scroll-pane"  id = "scrollbox" style="width:100%; text-align:left;">
 
-            </article>
+  <article id="about-els" class="tab-pane fade in active">
+            <p><i>“There is no surer foundation for a beautiful friendship than a mutual taste in literature.” ― P.G. Wodehousei</i><br><br></p>
+              <p>Keeping the spirit of the above quote in mind, the <a target="_blank" href="https://elsiitk.wordpress.com/">English Literary Society (ELS)</a> is a student run club under the Cultural Council, IITK, that seeks to promote literary activities in the campus. We conduct a variety of events, both literary (like various forms of Creative Writing, Word Games and Poetry Slam), and fun (like Just-A-Minute, Dumb Charades and some other experiments) frequently. Indian authors have been invited for judging some of our events and conducting workshops and informal sessions. </p>
+              <p><b>Email:</b> listoc.iitk@gmail.com</p>
+  </article>
 
-            <article  id="events-dance" class="tab-pane fade">
-            <p><h3>Fresher's Nite</h3>
-A dance performance is given by fresher’s batch on this day. This provides a platform to the fresher’s batch to show their talent and inspire the other fresher’s to join the club. This dance performance is choreographed by second year students who get their first hand chance to do choreography and have some experience.</p>
-<p>
-    <h3>Dance Extravaganza</h3>
-Dance Extravaganza is a charismatic show put up by the club for IITK junta. The whole club comes together to perform different dance styles. It provides a big platform to both dance club and non dance club members to show their talent.
-</p>
-<p>
-    <h3>
-        Dandiya Nite</h3>
-On the eve of Navaratri, dance club comes up with an event Dandiya Nite held in Girl’s Hostel-1. It’s a night filled with dance, food, DJ, masti and of course dandiya. Dandiya nite begins with the worship of goddess Durga which makes the event more colorful.   
-</p>
-<p>
-    <h3>
-        Dance Pe Chance   </h3>
-A dance competition organized for the non dance club members giving them a chance to showcase their talents and shot to win prize money too.
- </p>
- <p>
-     <h2>Hall Level Events</h2>
-<h3>Hall Day</h3>
-This event is held in second semester of the session and gives a platform for the first year students of the hall to come out and showcase their talent in cultural activities. The first year students perform group dance under the guidance of second year dance club members of the hall. Since it is a hall level event, many dance club members begin their journey from hall day.
-<h3>Galaxy</h3>
-After hall day, Galaxy(Inter hall cultural competition) provides a much bigger platform for new dance club members. For Galaxy, both freshers and seniors work hard together for the glory of their hall. Galaxy has various dance competitions like battle(face-off), dhating naach(bollywood dance) and group dance.
- </p>
+  <article id="events-els" class="tab-pane fade">
+              <h3>Some of the major events conducted by the ELS include:</h3>
+                <p><b>Treasure Hunt:</b> It is an annual, all night event, usually held in August, wherein the freshers form teams of up to six people and participate in a fast-paced, nerve-racking hunt, searching for clues one after the other in the whole campus. The event is conducted in association with the Quiz Club and the Hindi Sahitya Sabha, and acts as a campus tour for the incoming batch. Many students from the senior batches also participate as clue holders at the various locations, and make the teams do some fun activities before handing them the clues. This event sees a participation from around 600 freshmen every year.</p>
+               <p><b>Freshers' Frolica:</b> It is a series of four competitions held around August - September: JAM, Dumb Charades, Creative Writing and Word Games. These are supposed to introduce the freshers to the kind of events that the ELS conducts, and also to win some prizes in the process.</p>
+                <p><b>Run up to Galaxy / Galaxy Literary Events:</b> Galaxy is IITK's inter-hall cultural competition, which is fiercely fought in the month of February / March every year. ELS conducts its traditional events, as well as one or two new events.</p>
+                <p><b>Sweet Summer Sweat / Winter Winds:</b> Prompt-based / format-based writing events are held in the vacations, as these are the times when the students are free from the hustle-bustle of the campus, and can let their minds run free and come up with creations in the form of prose / poetry / comic strips / drama or any other literary form deemed convenient.</p>
+                 <p><b>LitFest:</b> It is conducted annually as part of CultFest, the internal cultural fest of the campus. New ideas are usually tested here, and Poetry slam came out of one such experimentation.</p>
+              <p><b>Run up to Antaragni:</b> As the name suggests, this is a pre-Antaragni event, held to warm up the participants so that they can exhibit their literary skills in the actual events and win some prizes.</p>
+              <p><b>Standalone Events:</b> Poetry slams are held twice a year, where some of the poets of the campus come out of their rooms and perform a fine piece of original poetry to an appreciative audience. The Institute JAM League has also been started as one such initiative, where the aim is to take JAM to a whole new level of competition.</p>
 
-            </article>
+  </article>
+  <article id="joinus-els" class="tab-pane fade">
+            <p><b>Meander:</b>  Meander is the annual publication of ELS. The best entries from the summer creative writing competition, as well as other entries, get featured in a four page publication which is circulated in the campus.</p>
 
-            <article id="joinus-dance" class="tab-pane fade">
-            <p>There is no particular procedure to become a dance club member. Anyone can join and at anytime. There is no registration fee. All we require is enthusiasm and passion for dance. The door to K-OS remains opened for each and everyone at anytime.</p>
+            <p><b>Blog:</b> The ELS blog (<a target="_blank" href="https://elsiitk.wordpress.com/about/">https://elsiitk.wordpress.com/about/</a>) is the place where the campus residents can showcase their creative works, be it prose, poetry, drama or even a comic strip. Works of enthusiastic poets and authors from the campus are regularly published on the blog.</p>
 
-            </article>
-        </section>
+            <p><b>Hydra Parables:</b> The Hydra Parables was a work started in 2015, wherein different authors imagine the possibilities stemming from a given set of characters and a setting, and iterate over different settings. <a target="_blank" href="https://elsiitk.wordpress.com/hydra-parables/">https://elsiitk.wordpress.com/hydra-parables/</a></p>
+
+  </article>
+
+</div>
+
   </div>
+</div>
 </div>
 
 <?php include(dirname(__FILE__)."/../footer.php");?>
