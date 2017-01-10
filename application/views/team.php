@@ -13,12 +13,12 @@
   <div class="scrollBar scroll-pane  col-xs-8" id = "scrollbox">
 
       <div class="">
-          <h3> Music </h3>
+          <h3> Dance </h3>
 
           <ul style="" id="core-team">
 
               <li style="">
-                  <div class="our-team" style="width:200px;height:220px;">
+                  <div class="our-team">
                      <div class="team-content">
                          <h3 class="team-prof">
                              Williamson
@@ -34,7 +34,7 @@
               </li>
 
               <li style="">
-                  <div class="our-team" style="width:200px;height:220px;">
+                  <div class="our-team">
                      <div class="team-content">
                          <h3 class="team-prof">
                              Williamson
@@ -50,7 +50,23 @@
               </li>
 
               <li style="">
-                  <div class="our-team" style="width:200px;height:220px;">
+                  <div class="our-team">
+                     <div class="team-content">
+                         <h3 class="team-prof">
+                             Williamson
+                             <small>Web designer</small>
+                         </h3>
+                         <ul class="social-link">
+                             <li><a href="#" class="fa fa-facebook"></a></li>
+                             <li><a href="#" class="fa fa-google"></a></li>
+                             <li><a href="#" class="fa fa-linkedin"></a></li>
+                         </ul>
+                     </div>
+                 </div>
+              </li>
+
+              <li style="">
+                  <div class="our-team">
                      <div class="team-content">
                          <h3 class="team-prof">
                              Williamson
@@ -71,12 +87,12 @@
       </div>
 
       <div class="">
-          <h3> Dance </h3>
+          <h3> Music </h3>
 
           <ul style="" id="core-team">
 
               <li style="">
-                  <div class="our-team" style="width:200px;height:220px;">
+                  <div class="our-team">
                      <div class="team-content">
                          <h3 class="team-prof">
                              Williamson
@@ -92,7 +108,7 @@
               </li>
 
               <li style="">
-                  <div class="our-team" style="width:200px;height:220px;">
+                  <div class="our-team">
                      <div class="team-content">
                          <h3 class="team-prof">
                              Williamson
@@ -108,7 +124,7 @@
               </li>
 
               <li style="">
-                  <div class="our-team" style="width:200px;height:220px;">
+                  <div class="our-team">
                      <div class="team-content">
                          <h3 class="team-prof">
                              Williamson
@@ -134,7 +150,7 @@
           <ul style="" id="core-team">
 
               <li style="">
-                  <div class="our-team" style="width:200px;height:220px;">
+                  <div class="our-team">
                      <div class="team-content">
                          <h3 class="team-prof">
                              Williamson
@@ -150,7 +166,7 @@
               </li>
 
               <li style="">
-                  <div class="our-team" style="width:200px;height:220px;">
+                  <div class="our-team">
                      <div class="team-content">
                          <h3 class="team-prof">
                              Williamson
@@ -166,7 +182,7 @@
               </li>
 
               <li style="">
-                  <div class="our-team" style="width:200px;height:220px;">
+                  <div class="our-team">
                      <div class="team-content">
                          <h3 class="team-prof">
                              Williamson
@@ -192,7 +208,7 @@
           <ul style="" id="core-team">
 
               <li style="">
-                  <div class="our-team" style="width:200px;height:220px;">
+                  <div class="our-team">
                      <div class="team-content">
                          <h3 class="team-prof">
                              Williamson
@@ -208,7 +224,7 @@
               </li>
 
               <li style="">
-                  <div class="our-team" style="width:200px;height:220px;">
+                  <div class="our-team">
                      <div class="team-content">
                          <h3 class="team-prof">
                              Williamson
@@ -224,7 +240,7 @@
               </li>
 
               <li style="">
-                  <div class="our-team" style="width:200px;height:220px;">
+                  <div class="our-team">
                      <div class="team-content">
                          <h3 class="team-prof">
                              Williamson
@@ -249,8 +265,8 @@
 
           <ul style="" id="core-team">
 
-              <li style="">
-                  <div class="our-team" style="width:200px;height:220px;">
+            <li style="">
+                  <div class="our-team">
                      <div class="team-content">
                          <h3 class="team-prof">
                              Williamson
@@ -266,7 +282,7 @@
               </li>
 
               <li style="">
-                  <div class="our-team" style="width:200px;height:220px;">
+                  <div class="our-team">
                      <div class="team-content">
                          <h3 class="team-prof">
                              Williamson
@@ -282,7 +298,23 @@
               </li>
 
               <li style="">
-                  <div class="our-team" style="width:200px;height:220px;">
+                  <div class="our-team">
+                     <div class="team-content">
+                         <h3 class="team-prof">
+                             Williamson
+                             <small>Web designer</small>
+                         </h3>
+                         <ul class="social-link">
+                             <li><a href="#" class="fa fa-facebook"></a></li>
+                             <li><a href="#" class="fa fa-google"></a></li>
+                             <li><a href="#" class="fa fa-linkedin"></a></li>
+                         </ul>
+                     </div>
+                 </div>
+              </li>
+
+              <li style="">
+                  <div class="our-team">
                      <div class="team-content">
                          <h3 class="team-prof">
                              Williamson
@@ -307,7 +339,7 @@
           <ul style="" id="core-team">
 
               <li style="">
-                  <div class="our-team" style="width:200px;height:220px;">
+                  <div class="our-team" >
                      <div class="team-content">
                          <h3 class="team-prof">
                              Williamson
@@ -323,7 +355,7 @@
               </li>
 
               <li style="">
-                  <div class="our-team" style="width:200px;height:220px;">
+                  <div class="our-team">
                      <div class="team-content">
                          <h3 class="team-prof">
                              Williamson
@@ -339,7 +371,7 @@
               </li>
 
               <li style="">
-                  <div class="our-team" style="width:200px;height:220px;">
+                  <div class="our-team">
                      <div class="team-content">
                          <h3 class="team-prof">
                              Williamson
