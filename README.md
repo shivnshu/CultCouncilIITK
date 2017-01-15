@@ -10,3 +10,6 @@ _using CodeIgniter framework_
 
 ##Note
 In case of error fetching assets of site or changing port of listening server, edit config.php located in application/config folder
+
+##ScreenShot
+![screenshot](screenshot.png)
