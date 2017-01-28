@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="css.css" rel="stylesheet" />
+<link href="event.css" rel="stylesheet" />
+<script src="js.js"></script>
+</head>
+<body onload="sizecheck()" onresize="sizecheck()">
+
+<div class="header">
+<img class="cclogo" src="logo/cc_small logo.png">
+</div>
+<div class="vanish"> <img class="base2" src="logo/base2.png"> </div>
+<hr class="vh" color="gray">
+<div class="mspace"> </div>
+<div class="row">
+<div class="menu">
+<button id="ico" value= "off" class="navico"  onclick='onoff()'><img id="icoimg" src="on.png"></button>
+<ul id="menu">
+<a href="index.html"><li>Home</li></a>
+<a href="events.html"><li>Events</li></a>
+<a href="pt.html"><li>Points Table</li></a>
+<a href="results.html"><li>Results</li></a>
+<!--<a href="downloads.html"><li>Downloads</li></a>-->
+<a href="schedule.html"><li>Schedule</li></a>
+<a href="awardees.html"><li>Winners</li></a>
+<a href="contact.html"><li>Contact</li></a>
+
+</ul>
+</div>
+
+<div class="col-2"></div>
+<div class="col-8">
+<center><img class="glogo" src="logo/galaxy_logo_small.png"><hr>
+<div class="eh">Points Table
+<hr>
+</div>
+<table class="ptt" border="1px">
+<tr><th class="thead">Events</th><th class="thead">Marathas</th><th class="thead">Mauryans</th><th class="thead">Mughals</th><th class="thead">Veeras</th></tr>
+<tr><th colspan="5"><span class="evsh"><center>Dance</center></span></th></tr>
+<tr><th class="tcell">Slam JAM</th><th class="tcell">36</th><th class="tcell">12</th><th class="tcell">12</th><th class="tcell">60</th></tr>
+<tr><th class="tcell">Andaz Apna Apna</th><th class="tcell">6</th><th class="tcell">20</th><th class="tcell">2</th><th class="tcell">12</th></tr>
+<tr><th class="tcell">Takes Two To Tango</th><th class="tcell">12</th><th class="tcell">40</th><th class="tcell">24</th><th class="tcell">4</th></tr>
+<tr><th class="tcell">Desi Beats</th><th class="tcell">48</th><th class="tcell">80</th><th class="tcell">8</th><th class="tcell">24</th></tr>
+<tr><th class="tmesh">Dance Total</th><th class="tmesh">102</th><th class="tmesh">152</th><th class="tmesh">46</th><th class="tmesh">100</th></tr>
+
+<tr><th colspan="5"><span class="evsh"><center>Music</center></span></th></tr>
+<tr><th class="tcell">Western Band</th><th class="tcell">21</th><th class="tcell">42</th><th class="tcell">70</th><th class="tcell">-</th></tr>
+<tr><th class="tcell">Pair on Stage</th><th class="tcell">9</th><th class="tcell">18</th><th class="tcell">30</th><th class="tcell">3</th></tr>
+<tr><th class="tcell">Group Song</th><th class="tcell">3</th><th class="tcell">18</th><th class="tcell">30</th><th class="tcell">9</th></tr>
+<tr><th class="tcell">Eastern Band</th><th class="tcell">56</th><th class="tcell">56</th><th class="tcell">21</th><th class="tcell">7</th></tr>
+<tr><th class="tmesh">Music Total</th><th class="tmesh">89</th><th class="tmesh">134</th><th class="tmesh">151</th><th class="tmesh">29.2*</th></tr>
+
+<tr><th colspan="5"><span class="evsh"><center>Fine Arts</center></span></th></tr>
+<tr><th class="tcell">Pen Sketching</th><th class="tcell">2.5</th><th class="tcell">25</th><th class="tcell">7.5</th><th class="tcell">15</th></tr>
+<tr><th class="tcell">Live Sketching</th><th class="tcell">6</th><th class="tcell">12</th><th class="tcell">2</th><th class="tcell">20</th></tr>
+<tr><th class="tcell">Pot Decoration</th><th class="tcell">25</th><th class="tcell">7.5</th><th class="tcell">15</th><th class="tcell">2.5</th></tr>
+<tr><th class="tcell">Oil Painting</th><th class="tcell">18</th><th class="tcell">9</th><th class="tcell">30</th><th class="tcell">-</th></tr>
+<tr><th class="tcell">Speed Art</th><th class="tcell">10.5</th><th class="tcell">35</th><th class="tcell">21</th><th class="tcell">3.5</th></tr>
+<tr><th class="tcell">Backdrop</th><th class="tcell">19.5</th><th class="tcell">39</th><th class="tcell">65</th><th class="tcell">-</th></tr>
+<tr><th class="tmesh">Fine Arts Total</th><th class="tmesh">81.5</th><th class="tmesh">127.5</th><th class="tmesh">140.5</th><th class="tmesh">78.1*</th></tr>
+
+<tr><th colspan="5"><span class="evsh"><center>Dramatics</center></span></th></tr>
+<tr><th class="tcell">Words don't Matter</th><th class="tcell">12</th><th class="tcell">24</th><th class="tcell">0</th><th class="tcell">40</th></tr>
+<tr><th class="tcell">Lalkaar</th><th class="tcell">24</th><th class="tcell">48</th><th class="tcell">80</th><th class="tcell">-</th></tr>
+<tr><th class="tcell">Rangmanch</th><th class="tcell">24</th><th class="tcell">48</th><th class="tcell">80</th><th class="tcell">8</th></tr>
+<tr><th class="tmesh">Dramatics Total</th><th class="tmesh">60</th><th class="tmesh">120</th><th class="tmesh">160</th><th class="tmesh">80*</th></tr>
+
+<tr><th colspan="5"><span class="evsh"><center>Hindi Sahitya Sabha</center></span></th></tr>
+<tr><th class="tcell">Gupchup</th><th class="tcell">9</th><th class="tcell">15</th><th class="tcell">4.5</th><th class="tcell">1.5</th></tr>
+<tr><th class="tcell">Kathaya</th><th class="tcell">20</th><th class="tcell">20</th><th class="tcell">7.5</th><th class="tcell">2.5</th></tr>
+<tr><th class="tcell">Vakyauddh</th><th class="tcell">20</th><th class="tcell">6</th><th class="tcell">12</th><th class="tcell">-</th></tr>
+<tr><th class="tcell">Shabdrang</th><th class="tcell">30</th><th class="tcell">18</th><th class="tcell">9</th><th class="tcell">3</th></tr>
+<tr><th class="tcell">Kavyanjali</th><th class="tcell">30</th><th class="tcell">18</th><th class="tcell">3</th><th class="tcell">9</th></tr>
+<tr><th class="tcell">Nirvaak</th><th class="tcell">9</th><th class="tcell">18</th><th class="tcell">30</th><th class="tcell">-</th></tr>
+<tr><th class="tmesh">HSS Total</th><th class="tmesh">118</th><th class="tmesh">95</th><th class="tmesh">66</th><th class="tmesh">24*</th></tr>
+
+<tr><th colspan="5"><span class="evsh"><center>English Literary Society</center></span></th></tr>
+<tr><th class="tcell">JAM</th><th class="tcell">9</th><th class="tcell">30</th><th class="tcell">3</th><th class="tcell">18</th></tr>
+<tr><th class="tcell">Creative Writing</th><th class="tcell">30</th><th class="tcell">18</th><th class="tcell">3</th><th class="tcell">9</th></tr>
+<tr><th class="tcell">Dumb Charades</th><th class="tcell">3.5</th><th class="tcell">35</th><th class="tcell">21</th><th class="tcell">10.5</th></tr>
+<tr><th class="tcell">Mixed Bag</th><th class="tcell">2</th><th class="tcell">20</th><th class="tcell">12</th><th class="tcell">6</th></tr>
+<tr><th class="tcell">Word Games</th><th class="tcell">21</th><th class="tcell">35</th><th class="tcell">3.5</th><th class="tcell">10.5</th></tr>
+<tr><th class="tmesh">ELS Total</th><th class="tmesh">65.5</th><th class="tmesh">138</th><th class="tmesh">42.5</th><th class="tmesh">54</th></tr>
+
+<tr><th colspan="5"><span class="evsh"><center>Quiz</center></span></th></tr>
+<tr><th class="tcell">General Quiz</th><th class="tcell">40</th><th class="tcell">12</th><th class="tcell">24</th><th class="tcell">-</th></tr>
+<tr><th class="tcell">Mela Quiz</th><th class="tcell">18</th><th class="tcell">30</th><th class="tcell">9</th><th class="tcell">3</th></tr>
+<tr><th class="tcell">Sports Quiz</th><th class="tcell">18</th><th class="tcell">9</th><th class="tcell">30</th><th class="tcell">-</th></tr>
+<tr><th class="tcell">India Quiz</th><th class="tcell">18</th><th class="tcell">30</th><th class="tcell">9</th><th class="tcell">3</th></tr>
+<tr><th class="tcell">BizTech Quiz</th><th class="tcell">20</th><th class="tcell">6</th><th class="tcell">12</th><th class="tcell">2</th></tr>
+<tr><th class="tmesh">Quiz Total</th><th class="tmesh">114</th><th class="tmesh">87</th><th class="tmesh">84</th><th class="tmesh">15*</th></tr>
+
+<tr><th colspan="5"><span class="evsh"><center>Discusion & Debating Society</center></span></th></tr>
+<tr><th class="tcell">Aamne Saamne</th><th class="tcell">12</th><th class="tcell">40</th><th class="tcell">24</th><th class="tcell">-</th></tr>
+<tr><th class="tcell">Turn Coat</th><th class="tcell">9</th><th class="tcell">4.5</th><th class="tcell">15</th><th class="tcell">1.5</th></tr>
+<tr><th class="tcell">Parliamentary Debate</th><th class="tcell">21</th><th class="tcell">8.5</th><th class="tcell">22.5</th><th class="tcell">26.5</th></tr>
+<tr><th class="tcell">MUN</th><th class="tcell">3.5</th><th class="tcell">35</th><th class="tcell">21</th><th class="tcell">10.5</th></tr>
+<tr><th class="tmesh">Debating Total</th><th class="tmesh">45.5</th><th class="tmesh">88</th><th class="tmesh">82.5</th><th class="tmesh">38.5*</th></tr>
+
+<tr><th colspan="5"><span class="evsh"><center>Miscellaneous</center></span></th></tr>
+<tr><th class="tcell">Pool Flag</th><th class="tcell">1.5</th><th class="tcell">9</th><th class="tcell">15</th><th class="tcell">4.5</th></tr>
+<tr><th class="tcell">Galaxy Parade</th><th class="tcell">21</th><th class="tcell">7</th><th class="tcell">70</th><th class="tcell">42</th></tr>
+<tr><th class="tcell">Dubsmash</th><th class="tcell">10</th><th class="tcell">1</th><th class="tcell">4.5</th><th class="tcell">4.5</th></tr>
+<tr><th class="tcell">Pool Video</th><th class="tcell">15</th><th class="tcell">4.5</th><th class="tcell">9</th><th class="tcell">1.5</th></tr>
+<tr><th class="tcell">Antarakshari</th><th class="tcell">9</th><th class="tcell">30</th><th class="tcell">18</th><th class="tcell">3</th></tr>
+
+<tr><th class="tmesh">Miscellaneous Total</th><th class="tmesh">56.5</th><th class="tmesh">51.5</th><th class="tmesh">116.5</th><th class="tmesh">55.5</th></tr>
+<tr><th colspan="5"><span class="evsh"><center> </center></span></th></tr>
+<tr><th class="tmesh">Mr./Ms. Galaxy</th><th class="tmesh">18</th><th class="tmesh">30</th><th class="tmesh">3</th><th class="tmesh">9</th></tr>
+<tr><th colspan="5"><span class="evsh"><center> </center></span></th></tr>
+<tr><th colspan="5"><span class="evsh"><center> </center></span></th></tr>
+<tr><th class="tmesh">Total</th><th class="tmesh">750</th><th class="tmesh">1023</th><th class="tmesh">892</th><th class="tmesh">526.6*</th></tr>
+<tr><th colspan="5"><span class="evbsh" border="2px"><center>*Since VEERAS are participating for 73.9% of total score, their total is extrapolated accordingly</center></span></th></tr>
+</table>
+</div>
+<div class="col-2 right">
+<div class="aside">
+<table width="100%" class="standing"><caption>Standings</caption>
+<tr><th width="33%">Rank</th><th width="33%">Team</th><th>Points</th></tr>
+<tr><td>1.</td><td>Mauryans</td><td>1023</td></tr>
+<tr><td>2.</td><td>Mughals</td><td>892</td></tr>
+<tr><td>3.</td><td>Marathas</td><td>750</td></tr>
+<tr><td>4.</td><td>Veeras</td><td>526.6</td></tr>
+</table><br>
+</div>
+</div>
+
+</div>
+<div><br><br><br><br><br>
+</div>
+<div class="footer">
+<p>Galaxy'16 | Cultural Council , IIT Kanpur</p>
+</div>
+
+</body>
+<script>
+
+</script>
+</html>
