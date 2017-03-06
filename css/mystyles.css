@@ -543,3 +543,13 @@ a{
 @media only screen and (max-width: 990px){
     .our-team{ margin-bottom: 20px; }
 }
+
+.clubs_introduction{
+    padding: 10%;
+    padding-top: 2%;
+}
+
+.clubs_events{
+    padding: 10%;
+    padding-top: 0%;
+}
