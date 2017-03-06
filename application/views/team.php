@@ -21,8 +21,8 @@
                   <div class="our-team">
                      <div class="team-content">
                          <h3 class="team-prof">
-                             Williamson
-                             <small>Web designer</small>
+                             Anshu Pandey
+                             <small>Coordinator</small>
                          </h3>
                          <ul class="social-link">
                              <li><a href="#" class="fa fa-facebook"></a></li>
@@ -37,8 +37,8 @@
                   <div class="our-team">
                      <div class="team-content">
                          <h3 class="team-prof">
-                             Williamson
-                             <small>Web designer</small>
+                             Ayush Singh
+                             <small>Coordinator</small>
                          </h3>
                          <ul class="social-link">
                              <li><a href="#" class="fa fa-facebook"></a></li>
@@ -53,8 +53,8 @@
                   <div class="our-team">
                      <div class="team-content">
                          <h3 class="team-prof">
-                             Williamson
-                             <small>Web designer</small>
+                             Kartikey Bhargav
+                             <small>Coordinator</small>
                          </h3>
                          <ul class="social-link">
                              <li><a href="#" class="fa fa-facebook"></a></li>
@@ -69,8 +69,8 @@
                   <div class="our-team">
                      <div class="team-content">
                          <h3 class="team-prof">
-                             Williamson
-                             <small>Web designer</small>
+                             Manan Jain
+                             <small>Coordinator</small>
                          </h3>
                          <ul class="social-link">
                              <li><a href="#" class="fa fa-facebook"></a></li>
@@ -87,7 +87,7 @@
       </div>
 
       <div class="">
-          <h3> Music </h3>
+          <h3> Debating and Discussion Society </h3>
 
           <ul style="" id="core-team">
 
@@ -95,8 +95,8 @@
                   <div class="our-team">
                      <div class="team-content">
                          <h3 class="team-prof">
-                             Williamson
-                             <small>Web designer</small>
+                             Sayash Kapoor
+                             <small>Coordinator</small>
                          </h3>
                          <ul class="social-link">
                              <li><a href="#" class="fa fa-facebook"></a></li>
@@ -106,39 +106,6 @@
                      </div>
                  </div>
               </li>
-
-              <li style="">
-                  <div class="our-team">
-                     <div class="team-content">
-                         <h3 class="team-prof">
-                             Williamson
-                             <small>Web designer</small>
-                         </h3>
-                         <ul class="social-link">
-                             <li><a href="#" class="fa fa-facebook"></a></li>
-                             <li><a href="#" class="fa fa-google"></a></li>
-                             <li><a href="#" class="fa fa-linkedin"></a></li>
-                         </ul>
-                     </div>
-                 </div>
-              </li>
-
-              <li style="">
-                  <div class="our-team">
-                     <div class="team-content">
-                         <h3 class="team-prof">
-                             Williamson
-                             <small>Web designer</small>
-                         </h3>
-                         <ul class="social-link">
-                             <li><a href="#" class="fa fa-facebook"></a></li>
-                             <li><a href="#" class="fa fa-google"></a></li>
-                             <li><a href="#" class="fa fa-linkedin"></a></li>
-                         </ul>
-                     </div>
-                 </div>
-              </li>
-
 
           </ul>
 
@@ -153,8 +120,8 @@
                   <div class="our-team">
                      <div class="team-content">
                          <h3 class="team-prof">
-                             Williamson
-                             <small>Web designer</small>
+                             Anurag Bahera
+                             <small>Coordinator</small>
                          </h3>
                          <ul class="social-link">
                              <li><a href="#" class="fa fa-facebook"></a></li>
@@ -169,8 +136,8 @@
                   <div class="our-team">
                      <div class="team-content">
                          <h3 class="team-prof">
-                             Williamson
-                             <small>Web designer</small>
+                             Shubham Mandle
+                             <small>Coordinator</small>
                          </h3>
                          <ul class="social-link">
                              <li><a href="#" class="fa fa-facebook"></a></li>
@@ -185,8 +152,8 @@
                   <div class="our-team">
                      <div class="team-content">
                          <h3 class="team-prof">
-                             Williamson
-                             <small>Web designer</small>
+                             Subham Das
+                             <small>Coordinator</small>
                          </h3>
                          <ul class="social-link">
                              <li><a href="#" class="fa fa-facebook"></a></li>
@@ -211,8 +178,8 @@
                   <div class="our-team">
                      <div class="team-content">
                          <h3 class="team-prof">
-                             Williamson
-                             <small>Web designer</small>
+                             Kanishk Gandhi
+                             <small>Coordinator</small>
                          </h3>
                          <ul class="social-link">
                              <li><a href="#" class="fa fa-facebook"></a></li>
@@ -227,8 +194,8 @@
                   <div class="our-team">
                      <div class="team-content">
                          <h3 class="team-prof">
-                             Williamson
-                             <small>Web designer</small>
+                             Nishit Asnani
+                             <small>Coordinator</small>
                          </h3>
                          <ul class="social-link">
                              <li><a href="#" class="fa fa-facebook"></a></li>
@@ -243,8 +210,8 @@
                   <div class="our-team">
                      <div class="team-content">
                          <h3 class="team-prof">
-                             Williamson
-                             <small>Web designer</small>
+                             Vaidehi Menon
+                             <small>Coordinator</small>
                          </h3>
                          <ul class="social-link">
                              <li><a href="#" class="fa fa-facebook"></a></li>
@@ -265,12 +232,12 @@
 
           <ul style="" id="core-team">
 
-            <li style="">
+              <li style="">
                   <div class="our-team">
                      <div class="team-content">
                          <h3 class="team-prof">
-                             Williamson
-                             <small>Web designer</small>
+                             Charu Bansal
+                             <small>Coordinator</small>
                          </h3>
                          <ul class="social-link">
                              <li><a href="#" class="fa fa-facebook"></a></li>
@@ -285,8 +252,8 @@
                   <div class="our-team">
                      <div class="team-content">
                          <h3 class="team-prof">
-                             Williamson
-                             <small>Web designer</small>
+                             Pushpendra Singh
+                             <small>Coordinator</small>
                          </h3>
                          <ul class="social-link">
                              <li><a href="#" class="fa fa-facebook"></a></li>
@@ -301,24 +268,8 @@
                   <div class="our-team">
                      <div class="team-content">
                          <h3 class="team-prof">
-                             Williamson
-                             <small>Web designer</small>
-                         </h3>
-                         <ul class="social-link">
-                             <li><a href="#" class="fa fa-facebook"></a></li>
-                             <li><a href="#" class="fa fa-google"></a></li>
-                             <li><a href="#" class="fa fa-linkedin"></a></li>
-                         </ul>
-                     </div>
-                 </div>
-              </li>
-
-              <li style="">
-                  <div class="our-team">
-                     <div class="team-content">
-                         <h3 class="team-prof">
-                             Williamson
-                             <small>Web designer</small>
+                             Saurabh Anand
+                             <small>Coordinator</small>
                          </h3>
                          <ul class="social-link">
                              <li><a href="#" class="fa fa-facebook"></a></li>
@@ -335,15 +286,15 @@
       </div>
 
       <div class="">
-          <h3> Quiz Club </h3>
+          <h3> Hindi Sahitya Sabha </h3>
           <ul style="" id="core-team">
 
               <li style="">
                   <div class="our-team" >
                      <div class="team-content">
                          <h3 class="team-prof">
-                             Williamson
-                             <small>Web designer</small>
+                             Hari Shankar
+                             <small>Coordinator</small>
                          </h3>
                          <ul class="social-link">
                              <li><a href="#" class="fa fa-facebook"></a></li>
@@ -358,8 +309,8 @@
                   <div class="our-team">
                      <div class="team-content">
                          <h3 class="team-prof">
-                             Williamson
-                             <small>Web designer</small>
+                             Ravi Kirti
+                             <small>Coordinator</small>
                          </h3>
                          <ul class="social-link">
                              <li><a href="#" class="fa fa-facebook"></a></li>
@@ -374,8 +325,8 @@
                   <div class="our-team">
                      <div class="team-content">
                          <h3 class="team-prof">
-                             Williamson
-                             <small>Web designer</small>
+                             Shivam Mishra
+                             <small>Coordinator</small>
                          </h3>
                          <ul class="social-link">
                              <li><a href="#" class="fa fa-facebook"></a></li>
@@ -386,6 +337,88 @@
                  </div>
               </li>
 
+
+          </ul>
+
+      </div>
+
+      <div class="">
+          <h3> Music Club </h3>
+
+          <ul style="" id="core-team">
+
+              <li style="">
+                  <div class="our-team">
+                     <div class="team-content">
+                         <h3 class="team-prof">
+                             Aabhas Mathur
+                             <small>Coordinator</small>
+                         </h3>
+                         <ul class="social-link">
+                             <li><a href="#" class="fa fa-facebook"></a></li>
+                             <li><a href="#" class="fa fa-google"></a></li>
+                             <li><a href="#" class="fa fa-linkedin"></a></li>
+                         </ul>
+                     </div>
+                 </div>
+              </li>
+
+              <li style="">
+                  <div class="our-team">
+                     <div class="team-content">
+                         <h3 class="team-prof">
+                             Rahi Bajaj
+                             <small>Coordinator</small>
+                         </h3>
+                         <ul class="social-link">
+                             <li><a href="#" class="fa fa-facebook"></a></li>
+                             <li><a href="#" class="fa fa-google"></a></li>
+                             <li><a href="#" class="fa fa-linkedin"></a></li>
+                         </ul>
+                     </div>
+                 </div>
+              </li>
+
+          </ul>
+
+      </div>
+
+      <div class="">
+          <h3> Quiz Club </h3>
+
+          <ul style="" id="core-team">
+
+              <li style="">
+                  <div class="our-team">
+                     <div class="team-content">
+                         <h3 class="team-prof">
+                             Amur Ghose
+                             <small>Coordinator</small>
+                         </h3>
+                         <ul class="social-link">
+                             <li><a href="#" class="fa fa-facebook"></a></li>
+                             <li><a href="#" class="fa fa-google"></a></li>
+                             <li><a href="#" class="fa fa-linkedin"></a></li>
+                         </ul>
+                     </div>
+                 </div>
+              </li>
+
+              <li style="">
+                  <div class="our-team">
+                     <div class="team-content">
+                         <h3 class="team-prof">
+                             Tushant Mittal
+                             <small>Coordinator</small>
+                         </h3>
+                         <ul class="social-link">
+                             <li><a href="#" class="fa fa-facebook"></a></li>
+                             <li><a href="#" class="fa fa-google"></a></li>
+                             <li><a href="#" class="fa fa-linkedin"></a></li>
+                         </ul>
+                     </div>
+                 </div>
+              </li>
 
           </ul>
 
