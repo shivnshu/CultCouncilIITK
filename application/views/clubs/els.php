@@ -23,12 +23,12 @@
 <div class="tab-content scrollBar scroll-pane"  id = "scrollbox" style="width:100%; text-align:left;">
 
   <article id="about-els" class="tab-pane fade in active">
-            <p><i>“There is no surer foundation for a beautiful friendship than a mutual taste in literature.” ― P.G. Wodehousei</i><br><br></p>
-              <p>Keeping the spirit of the above quote in mind, the <a target="_blank" href="https://elsiitk.wordpress.com/">English Literary Society (ELS)</a> is a student run club under the Cultural Council, IITK, that seeks to promote literary activities in the campus. We conduct a variety of events, both literary (like various forms of Creative Writing, Word Games and Poetry Slam), and fun (like Just-A-Minute, Dumb Charades and some other experiments) frequently. Indian authors have been invited for judging some of our events and conducting workshops and informal sessions. </p>
-              <p><b>Email:</b> listoc.iitk@gmail.com</p>
+
+              <p class="clubs_introduction"><i>“There is no surer foundation for a beautiful friendship than a mutual taste in literature.” ― P.G. Wodehouse</i><br><br>
+                  Keeping the spirit of the above quote in mind, the <a target="_blank" href="https://elsiitk.wordpress.com/">English Literary Society (ELS)</a> is a student run club under the Cultural Council, IITK, that seeks to promote literary activities in the campus. We conduct a variety of events, both literary (like various forms of Creative Writing, Word Games and Poetry Slam), and fun (like Just-A-Minute, Dumb Charades and some other experiments) frequently. Indian authors have been invited for judging some of our events and conducting workshops and informal sessions. </p>
   </article>
 
-  <article id="events-els" class="tab-pane fade">
+  <article id="events-els" class="tab-pane fade clubs_events">
               <h3>Some of the major events conducted by the ELS include:</h3>
                 <p><b>Treasure Hunt:</b> It is an annual, all night event, usually held in August, wherein the freshers form teams of up to six people and participate in a fast-paced, nerve-racking hunt, searching for clues one after the other in the whole campus. The event is conducted in association with the Quiz Club and the Hindi Sahitya Sabha, and acts as a campus tour for the incoming batch. Many students from the senior batches also participate as clue holders at the various locations, and make the teams do some fun activities before handing them the clues. This event sees a participation from around 600 freshmen every year.</p>
                <p><b>Freshers' Frolica:</b> It is a series of four competitions held around August - September: JAM, Dumb Charades, Creative Writing and Word Games. These are supposed to introduce the freshers to the kind of events that the ELS conducts, and also to win some prizes in the process.</p>
@@ -39,8 +39,8 @@
               <p><b>Standalone Events:</b> Poetry slams are held twice a year, where some of the poets of the campus come out of their rooms and perform a fine piece of original poetry to an appreciative audience. The Institute JAM League has also been started as one such initiative, where the aim is to take JAM to a whole new level of competition.</p>
 
   </article>
-  <article id="joinus-els" class="tab-pane fade">
-            <p><b>Meander:</b>  Meander is the annual publication of ELS. The best entries from the summer creative writing competition, as well as other entries, get featured in a four page publication which is circulated in the campus.</p>
+  <article id="joinus-els" class="tab-pane fade clubs_events">
+            <br><p><b>Meander:</b>  Meander is the annual publication of ELS. The best entries from the summer creative writing competition, as well as other entries, get featured in a four page publication which is circulated in the campus.</p>
 
             <p><b>Blog:</b> The ELS blog (<a target="_blank" href="https://elsiitk.wordpress.com/about/">https://elsiitk.wordpress.com/about/</a>) is the place where the campus residents can showcase their creative works, be it prose, poetry, drama or even a comic strip. Works of enthusiastic poets and authors from the campus are regularly published on the blog.</p>
 

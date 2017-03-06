@@ -61,4 +61,14 @@ class Welcome extends CI_Controller {
     {
         $this->load->view('clubs/quiz');
     }
+
+	public function debsoc()
+	{
+		$this->load->view('clubs/debsoc');
+	}
+
+	public function hss()
+	{
+		$this->load->view('clubs/hss');
+	}
 }

@@ -35,7 +35,7 @@
                 <p><b>Freshers’ night:</b> wall painting (2 OAT walls), sand art and speed art performance, exhibition</p>
                  <p><b>Antaragni:</b> art exhibition, doodling on club wall, wall painting in New Sac, ( 3 inside and 2 outside the club room), fine arts competitions</p>
               <p><b>Rangoli competition</b> </p>
-              <p><b>Mood I, fine arts competitions:</b> </p>
+              <p><b>Mood I, fine arts competitions</b> </p>
 
   </article>
   <article id="joinus-els" class="tab-pane fade">

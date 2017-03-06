@@ -10,7 +10,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<!-- The above 3 meta tags *must* come first in the head; any other head
 		content must come *after* these tags -->
 
-	<title>CulturalCouncil IITK</title>
+	<title>Cultural Council, IIT Kanpur</title>
 
 	<link rel="icon" href="<?=base_url()?>/images/favicon.ico" type="image/ico" >
 
@@ -86,11 +86,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 					<li id="council_home" class="parent council-nav"><a href="<?php echo site_url('') ?>">Home</a></li>
 					<li id="council_clubs" class="parent has-sub council-nav"><a style="cursor: pointer;">Clubs</a>
 						<ul class="sub-menu col-xs-10	 alpha omega">
-							<li id="music" class="council-nav"><a href="<?php echo site_url('welcome/music') ?>">Music</a></li>
 							<li id="dance" class="council-nav"><a href="<?php echo site_url('welcome/dance') ?>">Dance</a></li>
+							<li id="debsoc" class="council-nav"><a href="<?php echo site_url('welcome/debsoc') ?>">Deb-Soc</a></li>
 							<li id="dramatics" class="council-nav"><a href="<?php echo site_url('welcome/dramatics') ?>">Dramatics</a></li>
 							<li id="els" class="council-nav"><a href="<?php echo site_url('welcome/els') ?>">ELS</a></li>
 							<li id="fac" class="council-nav"><a href="<?php echo site_url('welcome/fac') ?>">Fine Arts Club</a></li>
+							<li id="hss" class="council-nav"><a href="<?php echo site_url('welcome/hss') ?>">HSS</a></li>
+							<li id="music" class="council-nav"><a href="<?php echo site_url('welcome/music') ?>">Music</a></li>
 							<li id="quiz" class="council-nav"><a href="<?php echo site_url('welcome/quiz') ?>">Quiz Club</a></li>
 						</ul>
 					</li>

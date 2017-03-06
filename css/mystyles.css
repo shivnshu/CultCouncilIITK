@@ -553,3 +553,7 @@ a{
     padding: 10%;
     padding-top: 0%;
 }
+
+.clubs_events p b {
+    color: #e8ad05;
+}
