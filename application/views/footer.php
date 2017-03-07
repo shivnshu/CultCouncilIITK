@@ -20,12 +20,14 @@
 
 	<div class="mobile-nav-clubs" style="display: none;">
 		<ul>
-			<li><a href="<?php echo site_url('welcome/music') ?>">Music</a></li>
-			<li><a href="<?php echo site_url('welcome/dance') ?>">Dance</a></li>
-			<li><a href="<?php echo site_url('welcome/dramatics') ?>">Dramatics</a></li>
-			<li><a href="<?php echo site_url('welcome/els') ?>">ELS</a></li>
-			<li><a href="<?php echo site_url('welcome/fac') ?>">Fine Art Club</a></li>
-			<li><a href="<?php echo site_url('welcome/quiz') ?>">Quiz Club</a></li>
+			<li id="dance" class="council-nav"><a href="<?php echo site_url('welcome/dance') ?>">Dance</a></li>
+			<li id="debsoc" class="council-nav"><a href="<?php echo site_url('welcome/debsoc') ?>">Deb-Soc</a></li>
+			<li id="dramatics" class="council-nav"><a href="<?php echo site_url('welcome/dramatics') ?>">Dramatics</a></li>
+			<li id="els" class="council-nav"><a href="<?php echo site_url('welcome/els') ?>">ELS</a></li>
+			<li id="fac" class="council-nav"><a href="<?php echo site_url('welcome/fac') ?>">Fine Arts Club</a></li>
+			<li id="hss" class="council-nav"><a href="<?php echo site_url('welcome/hss') ?>">HSS</a></li>
+			<li id="music" class="council-nav"><a href="<?php echo site_url('welcome/music') ?>">Music</a></li>
+			<li id="quiz" class="council-nav"><a href="<?php echo site_url('welcome/quiz') ?>">Quiz Club</a></li>
 		</ul>
 
 	</div>

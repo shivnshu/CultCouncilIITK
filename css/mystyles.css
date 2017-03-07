@@ -446,7 +446,12 @@ a{
 #core-team {
     display: flex;
     justify-content: space-around;
+}
 
+@media screen and (max-width: 900px) {
+    #core-team{
+        display: block;
+    }
 }
 
 #core-team li{
@@ -463,12 +468,6 @@ a{
     box-shadow: 0 0 5px #808080;
     width:100%;
     height:200px;
-}
-
-@media screen and (max-width: 1300px) {
-    /*.our-team {
-      width: 100%;
-    }*/
 }
 
 .team-content{
@@ -543,6 +542,8 @@ a{
 @media only screen and (max-width: 990px){
     .our-team{ margin-bottom: 20px; }
 }
+
+/* Clubs specific pages */
 
 .clubs_introduction{
     padding: 10%;
