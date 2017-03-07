@@ -24,17 +24,12 @@
 
   <article id="about-els" class="tab-pane fade in active">
 
-              <p class="clubs_introduction">Ever dreamed about being somebody else? What will be your actions when you become them? As Mr. Noel Coward says ‘Acting is not a state of being … but a state of appearing to be.’ i.e. acting is the closest way to live a person’s life. Welcome to Dramatics Club, IIT Kanpur which provides you the opportunity to satisfy not only your ‘acting ka keeda’ but many other keedas of scriptwriting, direction and backstage along with thrill of ovations as your production reaches its stage.</p>
+              <p class="clubs_introduction"> TBA</p>
   </article>
 
   <article id="events-els" class="tab-pane fade clubs_events">
-              <h3>Some of the major events conducted by the Dramatics club include:</h3>
-                <p><b>Orientation Nukkad:</b> It is an annual, all night event, usually held in August, wherein the freshers form teams of up to six people and participate in a fast-paced, nerve-racking hunt, searching for clues one after the other in the whole campus. The event is conducted in association with the Quiz Club and the Hindi Sahitya Sabha, and acts as a campus tour for the incoming batch. Many students from the senior batches also participate as clue holders at the various locations, and make the teams do some fun activities before handing them the clues. This event sees a participation from around 600 freshmen every year.</p>
-               <p><b>Fresher’s Night:</b> It is a series of four competitions held around August - September: JAM, Dumb Charades, Creative Writing and Word Games. These are supposed to introduce the freshers to the kind of events that the ELS conducts, and also to win some prizes in the process.</p>
-                <p><b>Dram Eve-1:</b> Galaxy is IITK's inter-hall cultural competition, which is fiercely fought in the month of February / March every year. ELS conducts its traditional events, as well as one or two new events.</p>
-                <p><b>Antaragni:</b> Prompt-based / format-based writing events are held in the vacations, as these are the times when the students are free from the hustle-bustle of the campus, and can let their minds run free and come up with creations in the form of prose / poetry / comic strips / drama or any other literary form deemed convenient.</p>
-                 <p><b>Dram Eve-2:</b> It is conducted annually as part of CultFest, the internal cultural fest of the campus. New ideas are usually tested here, and Poetry slam came out of one such experimentation.</p>
-              <p><b>Summer Workshop:</b> As the name suggests, this is a pre-Antaragni event, held to warm up the participants so that they can exhibit their literary skills in the actual events and win some prizes.</p>
+              <h3>Some of the major events conducted by the Debating and Discussion Society include:</h3>
+                <p><b>TBA:</b> TBA</p>
 
   </article>
 

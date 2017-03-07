@@ -24,18 +24,15 @@
 
   <article id="about-els" class="tab-pane fade in active">
 
-              <p class="clubs_introduction">Ever dreamed about being somebody else? What will be your actions when you become them? As Mr. Noel Coward says ‘Acting is not a state of being … but a state of appearing to be.’ i.e. acting is the closest way to live a person’s life. Welcome to Dramatics Club, IIT Kanpur which provides you the opportunity to satisfy not only your ‘acting ka keeda’ but many other keedas of scriptwriting, direction and backstage along with thrill of ovations as your production reaches its stage.</p>
+            <p class="clubs_introduction">वैसे तो हमारा देश ना जाने कितनी ही भाषाओं और बोलियों वाला देश है, एक ऐसा देश जहाँ कहा जाता है कि "कोस कोस पर बदले पानी चार कोस पर वाणी ", लेकिन फिर भी इन सब में हिंदी भाषा की अहमियत कुछ ख़ास ही है । देश के स्वाधीनता आन्दोलन के दौरान स्वराजियो के लिए ये सबसे मुखर माध्यम सिद्ध हुई ।
+            इस भाषा में हमारी संस्कृति और हमारे गौरवशाली इतिहास का बिम्ब प्रतिबिंबित होता है। इस भाषा में देश की मिट्टी की खुशबू है और उसी खुशबू को जिन्दा रखने का प्रयास करते है हम "हिंदी साहित्य सभा " के माध्यम से |
+            <br><br><span style="color:#e8ad05; font-weight: 700;">Mission:</span><br> हिंदी साहित्य सभा का लक्ष्य है कि हर वो छात्र जिसे हिंदी के साहित्य से लगाव है वो इस सभा से जुड़े और जिन्हें हिंदी साहित्य के विषय में ज्यादा कुछ नहीं मालूम वो जाने कि इसका साहित्य कितना समर्थ है। हिंदी को हिंदी भाषियों के ज़ेहन में तो अक्ष्क्षुण बनाये रखना है और साथ ही साथ अन्य भाषा-प्रदेश के साथियों से भी इसका उचित साक्षात्कार कराना है ।</p>
   </article>
 
   <article id="events-els" class="tab-pane fade clubs_events">
-              <h3>Some of the major events conducted by the Dramatics club include:</h3>
-                <p><b>Orientation Nukkad:</b> It is an annual, all night event, usually held in August, wherein the freshers form teams of up to six people and participate in a fast-paced, nerve-racking hunt, searching for clues one after the other in the whole campus. The event is conducted in association with the Quiz Club and the Hindi Sahitya Sabha, and acts as a campus tour for the incoming batch. Many students from the senior batches also participate as clue holders at the various locations, and make the teams do some fun activities before handing them the clues. This event sees a participation from around 600 freshmen every year.</p>
-               <p><b>Fresher’s Night:</b> It is a series of four competitions held around August - September: JAM, Dumb Charades, Creative Writing and Word Games. These are supposed to introduce the freshers to the kind of events that the ELS conducts, and also to win some prizes in the process.</p>
-                <p><b>Dram Eve-1:</b> Galaxy is IITK's inter-hall cultural competition, which is fiercely fought in the month of February / March every year. ELS conducts its traditional events, as well as one or two new events.</p>
-                <p><b>Antaragni:</b> Prompt-based / format-based writing events are held in the vacations, as these are the times when the students are free from the hustle-bustle of the campus, and can let their minds run free and come up with creations in the form of prose / poetry / comic strips / drama or any other literary form deemed convenient.</p>
-                 <p><b>Dram Eve-2:</b> It is conducted annually as part of CultFest, the internal cultural fest of the campus. New ideas are usually tested here, and Poetry slam came out of one such experimentation.</p>
-              <p><b>Summer Workshop:</b> As the name suggests, this is a pre-Antaragni event, held to warm up the participants so that they can exhibit their literary skills in the actual events and win some prizes.</p>
-
+              <h3>Some of the major events conducted by the Hindi Sahitya Sabha include:</h3>
+                <p><b>Nirvaak: </b><br> ठीक आपके अगल-बगल ऐसे कितने ही मुद्दे हैं जिनपर बातें नहीं होती या होती भी हैं तो सिर्फ बंद कमरों में| निर्वाक उन्हीं दबी हुई आवाजों को कलमबद्ध करके आप तक पहुंचाएगा | पर हाँ, ये समझ लेना जरूरी है कि निर्वाक कोई कैंपस (समाज) सुधारक जैसी चीज़ नहीं है! निर्वाक को एक आईने की भूमिका ज़रूर दी जा सकती है| एक आईना, जो ठीक आपके सामने झूलेगा और आपको आपकी सूरत दिखाता रहेगा| यहाँ ‘आप’ एक लड़का, एक कर्मचारी, एक हॉल, पूरा आई.आई.टी. कानपुर या उसकी कार्यप्रणाली हो सकते हैं। साहित्य और सामाजिकता (विचार-विमर्श) साहित्य को शब्दों, भावनाओं और विचारों से बनी संरचना के रूप में परिभाषित किया जा सकता है जो, पाठक के लिए खुद में एक विचारोत्तेजक स्थान बनाती है |
+                सामाजिकता, लोगों को समूह में जमा करने की प्रवृत्ति है | हम अलग-अलग दृष्टिकोण से साहित्य पर, उनकी शैली पर और उनकी उत्पत्ति के कारणों पर चर्चा करते हैं |</p>
   </article>
 
   <!--

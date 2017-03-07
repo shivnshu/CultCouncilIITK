@@ -24,7 +24,7 @@
 
   <article id="about-els" class="tab-pane fade in active">
 
-              <p class="clubs_introduction">K-OS is one of the most active and hardworking club of IIT Kanpur. It's a very big club having more than 100 members in it. We perform versatile dance forms like hip-hop, bollywood, salsa, folk dance, classical, freestyle, contemporary and many more. Our workshops and dance events are spread throughout the year. Working on the principle of learn, teach and perform many beginners become an important part of dance club.</p>
+              <p class="clubs_introduction">Dance Club is one of the most active and hardworking club of IIT Kanpur. It's a very big club having more than 100 members in it. We perform versatile dance forms like hip-hop, bollywood, salsa, folk dance, classical, freestyle, contemporary and many more. Our workshops and dance events are spread throughout the year. Working on the principle of learn, teach and perform many beginners become an important part of dance club.</p>
 
   </article>
 
