@@ -95,6 +95,41 @@
                   <div class="our-team">
                      <div class="team-content">
                          <h3 class="team-prof">
+                             Aniket Maitri
+                             <small>Coordinator</small>
+                         </h3>
+                         <ul class="social-link">
+                             <li><a href="#" class="fa fa-facebook"></a></li>
+                             <li><a href="#" class="fa fa-google"></a></li>
+                             <li><a href="#" class="fa fa-linkedin"></a></li>
+                         </ul>
+                     </div>
+                 </div>
+              </li>
+
+
+
+              <li style="">
+                  <div class="our-team">
+                     <div class="team-content">
+                         <h3 class="team-prof">
+                             Arnav Mehta
+                             <small>Coordinator</small>
+                         </h3>
+                         <ul class="social-link">
+                             <li><a href="#" class="fa fa-facebook"></a></li>
+                             <li><a href="#" class="fa fa-google"></a></li>
+                             <li><a href="#" class="fa fa-linkedin"></a></li>
+                         </ul>
+                     </div>
+                 </div>
+              </li>
+
+
+              <li style="">
+                  <div class="our-team">
+                     <div class="team-content">
+                         <h3 class="team-prof">
                              Sayash Kapoor
                              <small>Coordinator</small>
                          </h3>
