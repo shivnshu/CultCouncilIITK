@@ -24,17 +24,17 @@
 
   <article id="about-els" class="tab-pane fade in active">
 
-              <p class="clubs_introduction"><i>Ever dreamed about being somebody else? What will be your actions when you become them?</i><br> <br> As Mr. Noel Coward says ‘Acting is not a state of being … but a state of appearing to be.’ i.e. acting is the closest way to live a person’s life. Welcome to Dramatics Club, IIT Kanpur which provides you the opportunity to satisfy not only your ‘acting ka keeda’ but many other keedas of scriptwriting, direction and backstage along with thrill of ovations as your production reaches its stage.</p>
+              <p class="clubs_introduction"><i>Ever dreamed about being somebody else? What will be your actions when you become them? As Mr. Noel Coward says ‘Acting is not a state of being … but a state of appearing to be.’ i.e. acting is the closest way to live a person’s life.</i><br> <br>  Welcome to Dramatics Club, IIT Kanpur which provides you the opportunity to satisfy not only your ‘acting ka keeda’ but many other keedas of scriptwriting, direction and backstage along with thrill of ovations as your production reaches its stage.</p>
   </article>
 
   <article id="events-els" class="tab-pane fade clubs_events">
             <h3>Some of the major events conducted by the Dramatics club include:</h3>
-            <p><b>Orientation Nukkad:</b> It is an annual, all night event, usually held in August, wherein the freshers form teams of up to six people and participate in a fast-paced, nerve-racking hunt, searching for clues one after the other in the whole campus. The event is conducted in association with the Quiz Club and the Hindi Sahitya Sabha, and acts as a campus tour for the incoming batch. Many students from the senior batches also participate as clue holders at the various locations, and make the teams do some fun activities before handing them the clues. This event sees a participation from around 600 freshmen every year.</p>
-            <p><b>Fresher’s Night:</b> It is a series of four competitions held around August - September: JAM, Dumb Charades, Creative Writing and Word Games. These are supposed to introduce the freshers to the kind of events that the ELS conducts, and also to win some prizes in the process.</p>
-            <p><b>Dram Eve-1:</b> Galaxy is IITK's inter-hall cultural competition, which is fiercely fought in the month of February / March every year. ELS conducts its traditional events, as well as one or two new events.</p>
-            <p><b>Antaragni:</b> Prompt-based / format-based writing events are held in the vacations, as these are the times when the students are free from the hustle-bustle of the campus, and can let their minds run free and come up with creations in the form of prose / poetry / comic strips / drama or any other literary form deemed convenient.</p>
-            <p><b>Dram Eve-2:</b> It is conducted annually as part of CultFest, the internal cultural fest of the campus. New ideas are usually tested here, and Poetry slam came out of one such experimentation.</p>
-            <p><b>Summer Workshop:</b> As the name suggests, this is a pre-Antaragni event, held to warm up the participants so that they can exhibit their literary skills in the actual events and win some prizes.</p>
+            <p><b>Orientation Nukkad: </b> A Street Play by club seniors for the incoming batch which gives them their first glance of a performance from the club.</p>
+            <p><b>Fresher’s Night: </b> ‘What happens in Dramatics Club?’ is the first question in the mind of a fresher. Well here is the answer with the first production of club performed solely by students of incoming batch.</p>
+            <p><b>Dram Eve-1:</b> The gems of past performances of the club are unearthed for the new batch as second and first years come together to perform some of its earlier street plays.</p>
+            <p><b>Antaragni:</b> Stage Play. Street Play. Mime. The Cultural fest of IIT Kanpur brings forth an exciting chance for competing against incoming colleges.</p>
+            <p><b>Dram Eve-2: </b> Flagship event of the club with all its members putting a dazzling array of plays, nukkad and mime performances for crowd of IIT Kanpur.</p>
+            <p><b>Summer Workshop: </b> A whole month of learning of elements of stage play under a theatre professional at the end of which a professionally directed play is staged for students and professors alike.</p>
 
   </article>
 
