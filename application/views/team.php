@@ -271,6 +271,22 @@
                   <div class="our-team">
                      <div class="team-content">
                          <h3 class="team-prof">
+                             Amit Saini
+                             <small>Coordinator</small>
+                         </h3>
+                         <ul class="social-link">
+                             <li><a href="#" class="fa fa-facebook"></a></li>
+                             <li><a href="#" class="fa fa-google"></a></li>
+                             <li><a href="#" class="fa fa-linkedin"></a></li>
+                         </ul>
+                     </div>
+                 </div>
+              </li>
+
+              <li style="">
+                  <div class="our-team">
+                     <div class="team-content">
+                         <h3 class="team-prof">
                              Charu Bansal
                              <small>Coordinator</small>
                          </h3>
@@ -387,6 +403,22 @@
                      <div class="team-content">
                          <h3 class="team-prof">
                              Aabhas Mathur
+                             <small>Coordinator</small>
+                         </h3>
+                         <ul class="social-link">
+                             <li><a href="#" class="fa fa-facebook"></a></li>
+                             <li><a href="#" class="fa fa-google"></a></li>
+                             <li><a href="#" class="fa fa-linkedin"></a></li>
+                         </ul>
+                     </div>
+                 </div>
+              </li>
+
+              <li style="">
+                  <div class="our-team">
+                     <div class="team-content">
+                         <h3 class="team-prof">
+                             Jay Deshmukh
                              <small>Coordinator</small>
                          </h3>
                          <ul class="social-link">
